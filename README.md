@@ -70,3 +70,11 @@
 - [Practical SOC Analyst Professional (PSAP)](https://certifications.tcm-sec.com/psap/)
 - [Practical Malware Research Professional (PMRP)](https://certifications.tcm-sec.com/pmrp/)
 - [Practical OSINT Research Professional (PORP)](https://certifications.tcm-sec.com/porp/)
+
+## Security Blue Team Certifications
+
+- [Blue Team Level 1 (BTL1)](https://www.securityblue.team/certifications/blue-team-level-1)
+- [Blue Team Level 2 (BTL2)](https://www.securityblue.team/certifications/blue-team-level-2)
+- [Certified Detection Engineering Associate](https://www.securityblue.team/certifications/certified-detection-engineering-associate)
+- [Certified Penetration Testing Associate (CPTA)](https://www.securityblue.team/certifications/certified-penetration-testing-associate-cpta)
+- [Certified Security Operations Manager (CSOM)](https://www.securityblue.team/certifications/certified-security-operations-manager)
