@@ -25,3 +25,15 @@
 - [CompTIA DataSys+](https://www.comptia.org/en-us/certifications/datasys/)
 - [CompTIA DataX](https://www.comptia.org/en-us/certifications/datax/)
 - [CompTIA Project+](https://www.comptia.org/en-us/certifications/project/)
+
+## Hack The Box Certifications
+
+- [HTB Certified Junior Cybersecurity Associate (CJCA)](https://academy.hackthebox.com/preview/certifications/htb-certified-junior-cybersecurity-associate)
+- [HTB Certified Penetration Testing Specialist (CPTS)](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
+- [HTB Certified Web Exploitation Specialist (CWES)](https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-specialist)
+- [HTB Certified Defensive Security Analyst (CDSA)](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst)
+- [HTB Certified Web Exploitation Expert (CWEE)](https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert)
+- [HTB Certified Active Directory Pentesting Expert (CAPE)](https://academy.hackthebox.com/preview/certifications/htb-certified-active-directory-pentesting-expert)
+- [HTB Certified Wi-Fi Pentesting Expert (CWPE)](https://academy.hackthebox.com/preview/certifications/htb-certified-wi-fi-pentesting-expert)
+- [HTB Certified Offensive AI Expert (CAIE)](https://academy.hackthebox.com/preview/certifications/htb-certified-offensive-ai-expert)
+- [HTB Certified Detection Engineering Principal (CDEP)](https://academy.hackthebox.com/preview/certifications/htb-certified-detection-engineering-principal)
