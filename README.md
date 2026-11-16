@@ -4,15 +4,46 @@
 ## Computer Science
 
 ### Required Math
-- **Algebra & Precalculus**: [Khan Academy Algebra](https://www.khanacademy.org/math/algebra), [Khan Academy Precalculus](https://www.khanacademy.org/math/precalculus)
-- **Calculus I**: [Khan Academy](https://www.khanacademy.org/math/calculus-1), [MIT OCW 18.01SC](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/), [OpenStax Calculus Vol. 1](https://openstax.org/details/books/calculus-volume-1)
-- **Calculus II**: [Khan Academy](https://www.khanacademy.org/math/calculus-2), [OpenStax Calculus Vol. 2](https://openstax.org/details/books/calculus-volume-2)
-- **Calculus III (Multivariable)**: [Khan Academy](https://www.khanacademy.org/math/multivariable-calculus), [MIT OCW 18.02SC](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/), [OpenStax Calculus Vol. 3](https://openstax.org/details/books/calculus-volume-3)
-- **Linear Algebra**: [Khan Academy](https://www.khanacademy.org/math/linear-algebra), [MIT OCW 18.06](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/), [3Blue1Brown](https://www.3blue1brown.com/topics/linear-algebra)
-- **Discrete Mathematics**: [MIT OCW 6.042J Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/), [Discrete Mathematics: An Open Introduction](https://discrete.openmathbooks.org/dmoi3.html), [MIT OCW 18.310](https://ocw.mit.edu/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/)
-- **Probability & Statistics**: [Khan Academy](https://www.khanacademy.org/math/statistics-probability), [OpenStax Introductory Statistics](https://openstax.org/details/books/introductory-statistics)
-- **Differential Equations**: [Khan Academy](https://www.khanacademy.org/math/differential-equations), [MIT OCW 18.03SC](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
-- **Number Theory & Cryptography** (useful for security): [MIT OCW 18.781](https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012/), [Khan Academy Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
+
+**Algebra & Precalculus**
+- [Khan Academy Algebra](https://www.khanacademy.org/math/algebra)
+- [Khan Academy Precalculus](https://www.khanacademy.org/math/precalculus)
+
+**Calculus I**
+- [Khan Academy](https://www.khanacademy.org/math/calculus-1)
+- [MIT OCW 18.01SC](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
+- [OpenStax Calculus Vol. 1](https://openstax.org/details/books/calculus-volume-1)
+
+**Calculus II**
+- [Khan Academy](https://www.khanacademy.org/math/calculus-2)
+- [OpenStax Calculus Vol. 2](https://openstax.org/details/books/calculus-volume-2)
+
+**Calculus III (Multivariable)**
+- [Khan Academy](https://www.khanacademy.org/math/multivariable-calculus)
+- [MIT OCW 18.02SC](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
+- [OpenStax Calculus Vol. 3](https://openstax.org/details/books/calculus-volume-3)
+
+**Linear Algebra**
+- [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+- [MIT OCW 18.06](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- [3Blue1Brown](https://www.3blue1brown.com/topics/linear-algebra)
+
+**Discrete Mathematics**
+- [MIT OCW 6.042J Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+- [Discrete Mathematics: An Open Introduction](https://discrete.openmathbooks.org/dmoi3.html)
+- [MIT OCW 18.310](https://ocw.mit.edu/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/)
+
+**Probability & Statistics**
+- [Khan Academy](https://www.khanacademy.org/math/statistics-probability)
+- [OpenStax Introductory Statistics](https://openstax.org/details/books/introductory-statistics)
+
+**Differential Equations**
+- [Khan Academy](https://www.khanacademy.org/math/differential-equations)
+- [MIT OCW 18.03SC](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
+
+**Number Theory & Cryptography** (useful for security)
+- [MIT OCW 18.781](https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012/)
+- [Khan Academy Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
 
 ### Visual Intuition
 - [3Blue1Brown Calculus](https://www.3blue1brown.com/topics/calculus)
@@ -20,6 +51,7 @@
 ### 40 Core CS Courses (in order)
 
 **Foundations**
+
 1. [Harvard CS50x: Introduction to Computer Science](https://cs50.harvard.edu/x/)
 2. [Harvard CS50P: Programming with Python](https://cs50.harvard.edu/python/)
 3. [MIT 6.100L: Intro to CS and Programming Using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
@@ -28,8 +60,10 @@
 6. [Nand2Tetris: Build a Computer from First Principles](https://www.nand2tetris.org/)
 
 **Data Structures & Algorithms**
+
 7. [Berkeley CS61B: Data Structures](https://cs61b.org/)
-8. [Princeton Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) ([textbook site](https://algs4.cs.princeton.edu/home/))
+8. [Princeton Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+    - [Textbook site](https://algs4.cs.princeton.edu/home/)
 9. [Princeton Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 10. [MIT 6.006: Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 11. [MIT 6.046J: Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
@@ -37,6 +71,7 @@
 13. [MIT 6.031: Software Construction](https://web.mit.edu/6.031/www/)
 
 **Computer Systems**
+
 14. [CMU 15-213: Introduction to Computer Systems](https://www.cs.cmu.edu/~213/)
 15. [Berkeley CS61C: Great Ideas in Computer Architecture](https://cs61c.org/)
 16. [ETH Zurich: Digital Design and Computer Architecture](https://safari.ethz.ch/digitaltechnik/)
@@ -52,17 +87,20 @@
 26. [Stanford CS149: Parallel Computing](https://gfxcourses.stanford.edu/cs149/)
 
 **Languages, Compilers & Theory**
+
 27. [Stanford CS143: Compilers](https://web.stanford.edu/class/cs143/)
 28. [Crafting Interpreters](https://craftinginterpreters.com/)
 29. [UW Programming Languages (Dan Grossman)](https://www.coursera.org/learn/programming-languages)
 30. [Stanford CS154: Introduction to the Theory of Computation](https://cs154.stanford.edu/)
 
 **Security**
+
 31. [Berkeley CS161: Computer Security](https://cs161.org/)
 32. [Stanford CS155: Computer and Network Security](https://cs155.stanford.edu/)
 33. [Stanford Cryptography I (Dan Boneh)](https://www.coursera.org/learn/crypto)
 
 **AI, Machine Learning & Graphics**
+
 34. [Berkeley CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/)
 35. [Stanford CS229: Machine Learning](https://cs229.stanford.edu/)
 36. [Stanford CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)
@@ -71,6 +109,7 @@
 39. [Berkeley CS184: Computer Graphics](https://cs184.eecs.berkeley.edu/)
 
 **Capstone**
+
 40. [Build Your Own X (CodeCrafters)](https://github.com/codecrafters-io/build-your-own-x)
 
 ## CompTIA Certifications
