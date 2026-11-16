@@ -180,3 +180,43 @@
 ### Reverse Engineering
 - [Reverse Engineering for Beginners](https://beginners.re/)
 - [crackmes.one](https://crackmes.one/)
+
+## Web Development
+
+### Full Curricula
+- [The Odin Project](https://www.theodinproject.com/)
+- [freeCodeCamp](https://www.freecodecamp.org/learn)
+- [MDN Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn_web_development)
+- [Full Stack Open](https://fullstackopen.com/en/)
+- [CS50's Web Programming](https://cs50.harvard.edu/web/)
+- [web.dev Learn](https://web.dev/learn)
+- [Microsoft Learn: Web Development 101](https://learn.microsoft.com/en-us/training/paths/web-development-101/)
+- [Codecademy Web Development](https://www.codecademy.com/catalog/subject/web-development)
+- [Scrimba Frontend Path](https://scrimba.com/learn/frontend)
+
+### Roadmaps
+- [roadmap.sh Frontend](https://roadmap.sh/frontend)
+- [roadmap.sh Backend](https://roadmap.sh/backend)
+- [roadmap.sh Full Stack](https://roadmap.sh/full-stack)
+- [Developer Roadmap (GitHub)](https://github.com/kamranahmedse/developer-roadmap)
+
+### JavaScript, TypeScript & Frameworks
+- [JavaScript.info](https://javascript.info/)
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [TypeScript Docs](https://www.typescriptlang.org/docs/)
+- [React Docs](https://react.dev/learn)
+- [Node.js Learn](https://nodejs.org/en/learn)
+
+### HTML & CSS
+- [CSS-Tricks](https://css-tricks.com/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [CSS Grid Garden](https://cssgridgarden.com/)
+- [W3Schools](https://www.w3schools.com/)
+
+### Practice & Projects
+- [Frontend Mentor](https://frontendmentor.io/)
+- [Exercism](https://exercism.org/)
+
+### Blogs & Tutorials
+- [Josh W. Comeau](https://www.joshwcomeau.com/)
+- [Web Dev Simplified](https://webdevsimplified.com/)
