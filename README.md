@@ -596,3 +596,68 @@
 - [Amazon DCV](https://docs.aws.amazon.com/dcv/)
 - [Citrix](https://citrix.com/)
 - [Omnissa Horizon](https://www.omnissa.com/products/horizon/)
+
+## Hardware Hacking
+
+### Learn
+- [Embedded Security (embeddedsecurity.io)](https://embeddedsecurity.io/)
+- [Hardwear.io](https://hardwear.io/)
+- [Attify (IoT & Hardware Security)](https://www.attify.com/)
+- [OWASP Internet of Things Project](https://owasp.org/www-project-internet-of-things/)
+- [OWASP Firmware Security Testing Methodology](https://github.com/scriptingxss/owasp-fstm)
+- [Hackaday](https://hackaday.com/)
+
+### Video Channels
+- [LiveOverflow](https://www.youtube.com/@LiveOverflow)
+- [stacksmashing](https://www.youtube.com/@stacksmashing)
+- [Joe Grand](https://www.youtube.com/@JoeGrand)
+- [EEVblog](https://www.youtube.com/@EEVblog)
+
+### Practice Targets
+- [IoTGoat](https://github.com/OWASP/IoTGoat)
+
+### Debug & Interface Tools (UART / JTAG / SWD)
+- [OpenOCD](https://openocd.org/)
+- [Black Magic Probe](https://black-magic.org/)
+- [Tigard](https://github.com/tigard-tools/tigard)
+- [JTAGenum](https://github.com/cyphunk/JTAGenum)
+- [GreatFET](https://greatscottgadgets.com/greatfet/)
+- [Cynthion (USB)](https://github.com/greatscottgadgets/cynthion)
+
+### Logic Analyzers & Signal Analysis
+- [Saleae](https://www.saleae.com/)
+- [sigrok](https://www.sigrok.org/)
+- [PulseView](https://sigrok.org/wiki/PulseView)
+
+### Side-Channel & Fault Injection
+- [ChipWhisperer](https://www.chipwhisperer.com/)
+- [ChipWhisperer (GitHub)](https://github.com/newaetech/chipwhisperer)
+- [ChipWhisperer Docs](https://chipwhisperer.readthedocs.io/)
+- [NewAE Technology](https://www.newae.com/)
+
+### Firmware Analysis
+- [Ghidra](https://ghidra-sre.org/)
+- [Binwalk](https://github.com/ReFirmLabs/binwalk)
+- [Firmadyne](https://github.com/firmadyne/firmadyne)
+- [Firmware Analysis Toolkit](https://github.com/attify/firmware-analysis-toolkit)
+- [flashrom](https://www.flashrom.org/)
+
+### Radio & RFID
+- [Flipper Zero](https://flipperzero.one/)
+- [Flipper Docs](https://docs.flipper.net/)
+- [HackRF](https://greatscottgadgets.com/hackrf/)
+- [Ubertooth One](https://greatscottgadgets.com/ubertoothone/)
+- [Great Scott Gadgets SDR Course](https://greatscottgadgets.com/sdr/)
+- [Proxmark3](https://www.proxmark.com/)
+- [Proxmark3 (GitHub)](https://github.com/RfidResearchGroup/proxmark3)
+- [RTL-SDR Blog](https://www.rtl-sdr.com/)
+- [GNU Radio](https://gnuradio.org/)
+
+### Gear & Suppliers
+- [Hak5](https://www.hak5.org/)
+- [Hak5 Shop](https://shop.hak5.org/)
+- [Adafruit](https://www.adafruit.com/)
+- [SparkFun](https://www.sparkfun.com/)
+
+### Books
+- [The Hardware Hacking Handbook](https://nostarch.com/hardwarehacking)
