@@ -728,3 +728,80 @@
 - [eForensics Magazine](https://www.eforensicsmag.com/)
 - [Forensic Focus](https://www.forensicfocus.com/)
 - [DFRWS](https://dfrws.org/)
+
+## OSINT
+
+### Certifications & Training
+- [GIAC GOSI (Open Source Intelligence)](https://www.giac.org/certifications/open-source-intelligence-gosi/)
+- [TCM Security OSINT Fundamentals](https://academy.tcm-sec.com/p/osint-fundamentals)
+- [OSINT Dojo](https://osintdojo.com/)
+- [OSINT Combine](https://www.osintcombine.com/)
+- [Trace Labs](https://www.tracelabs.org/)
+- [IntelTechniques](https://inteltechniques.com/)
+
+### Frameworks & Collections
+- [OSINT Framework](https://osintframework.com/)
+- [Awesome OSINT (jivoi)](https://github.com/jivoi/awesome-osint)
+- [Awesome OSINT (Lissy93)](https://github.com/Lissy93/awesome-osint)
+- [IntelTechniques Tools](https://inteltechniques.com/tools/)
+- [OSINT Stuff Tool Collection](https://github.com/cipher387/osint_stuff_tool_collection)
+- [Bellingcat Resources](https://www.bellingcat.com/resources/)
+
+### Recon Frameworks
+- [Maltego](https://www.maltego.com/)
+- [SpiderFoot](https://www.spiderfoot.net/)
+- [Recon-ng](https://github.com/lanmaster53/recon-ng)
+- [theHarvester](https://github.com/laramies/theHarvester)
+- [OWASP Amass](https://github.com/owasp-amass/amass)
+- [Sublist3r](https://github.com/aboul3la/Sublist3r)
+
+### Username, Email & Phone
+- [Sherlock](https://github.com/sherlock-project/sherlock)
+- [Maigret](https://github.com/soxoj/maigret)
+- [Holehe](https://github.com/megadose/holehe)
+- [GHunt](https://github.com/mxrch/GHunt)
+- [PhoneInfoga](https://github.com/sundowndev/phoneinfoga)
+- [Hunter](https://hunter.io/)
+- [Have I Been Pwned](https://haveibeenpwned.com/)
+- [Intelligence X](https://intelx.io/)
+- [DeHashed](https://dehashed.com/)
+
+### Internet-Wide Search
+- [Shodan](https://www.shodan.io/)
+- [Censys](https://search.censys.io/)
+- [ZoomEye](https://www.zoomeye.ai/)
+- [FOFA](https://fofa.info/)
+- [BuiltWith](https://builtwith.com/)
+- [SecurityTrails](https://securitytrails.com/)
+- [URLScan](https://urlscan.io/)
+- [VirusTotal](https://www.virustotal.com/)
+- [DNSDumpster](https://dnsdumpster.com/)
+- [ViewDNS](https://viewdns.info/)
+- [Who.is](https://who.is/)
+- [WiGLE (Wi-Fi Mapping)](https://wigle.net/)
+
+### Images & Geolocation
+- [Google Images](https://images.google.com/)
+- [Yandex Images](https://yandex.com/images/)
+- [TinEye](https://tineye.com/)
+- [PimEyes](https://pimeyes.com/en)
+- [ExifData](https://www.exifdata.com/)
+- [Google Earth](https://earth.google.com/web/)
+- [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/)
+- [Overpass Turbo](https://overpass-turbo.eu/)
+- [GeoGuessr](https://www.geoguessr.com/)
+- [GeoSpy](https://geospy.ai/)
+
+### Tracking
+- [Flightradar24](https://www.flightradar24.com/)
+- [MarineTraffic](https://www.marinetraffic.com/)
+- [Internet Archive](https://archive.org/)
+
+### Blogs, Newsletters & Channels
+- [Bellingcat](https://www.bellingcat.com/)
+- [Sector035 (Week in OSINT)](https://sector035.nl/)
+- [The OSINT Curious Project](https://www.osintcurio.us/)
+- [Gralhix](https://gralhix.com/)
+- [Trace Labs (YouTube)](https://www.youtube.com/@TraceLabs)
+- [OSINT Dojo (YouTube)](https://www.youtube.com/@OSINTDojo)
+- [OSINT Combine (YouTube)](https://www.youtube.com/@OSINTCombine)
