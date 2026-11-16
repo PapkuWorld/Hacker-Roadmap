@@ -1,6 +1,22 @@
 # Hacker-Roadmap
 11 Year Hacker Map
 
+## Computer Science
+
+### Required Math
+- **Algebra & Precalculus**: [Khan Academy Algebra](https://www.khanacademy.org/math/algebra), [Khan Academy Precalculus](https://www.khanacademy.org/math/precalculus)
+- **Calculus I**: [Khan Academy](https://www.khanacademy.org/math/calculus-1), [MIT OCW 18.01SC](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/), [OpenStax Calculus Vol. 1](https://openstax.org/details/books/calculus-volume-1)
+- **Calculus II**: [Khan Academy](https://www.khanacademy.org/math/calculus-2), [OpenStax Calculus Vol. 2](https://openstax.org/details/books/calculus-volume-2)
+- **Calculus III (Multivariable)**: [Khan Academy](https://www.khanacademy.org/math/multivariable-calculus), [MIT OCW 18.02SC](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/), [OpenStax Calculus Vol. 3](https://openstax.org/details/books/calculus-volume-3)
+- **Linear Algebra**: [Khan Academy](https://www.khanacademy.org/math/linear-algebra), [MIT OCW 18.06](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/), [3Blue1Brown](https://www.3blue1brown.com/topics/linear-algebra)
+- **Discrete Mathematics**: [MIT OCW 6.042J Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/), [Discrete Mathematics: An Open Introduction](https://discrete.openmathbooks.org/dmoi3.html), [MIT OCW 18.310](https://ocw.mit.edu/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/)
+- **Probability & Statistics**: [Khan Academy](https://www.khanacademy.org/math/statistics-probability), [OpenStax Introductory Statistics](https://openstax.org/details/books/introductory-statistics)
+- **Differential Equations**: [Khan Academy](https://www.khanacademy.org/math/differential-equations), [MIT OCW 18.03SC](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
+- **Number Theory & Cryptography** (useful for security): [MIT OCW 18.781](https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012/), [Khan Academy Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
+
+### Visual Intuition
+- [3Blue1Brown Calculus](https://www.3blue1brown.com/topics/calculus)
+
 ## CompTIA Certifications
 
 ### Core
