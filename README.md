@@ -23,8 +23,16 @@
 ### Data & Project Management
 - [CompTIA Data+](https://www.comptia.org/en-us/certifications/data/)
 - [CompTIA DataSys+](https://www.comptia.org/en-us/certifications/datasys/)
-- [CompTIA DataX](https://www.comptia.org/en-us/certifications/datax/)
+- [CompTIA DataAI (formerly DataX)](https://www.comptia.org/en-us/certifications/dataai/)
 - [CompTIA Project+](https://www.comptia.org/en-us/certifications/project/)
+
+### Expansion Series
+- [CompTIA CloudNetX](https://www.comptia.org/en-us/certifications/cloudnetx/)
+- [CompTIA SecAI+](https://www.comptia.org/en-us/certifications/secai/)
+- [CompTIA AutoOps+](https://www.comptia.org/en-us/certifications/autoops/)
+
+### Upcoming
+- [CompTIA SecOT+](https://www.comptia.org/en-us/certifications/secot/) (launching December 2026)
 
 ## Hack The Box Certifications
 
