@@ -545,3 +545,54 @@
 ### Security-Focused OS
 - [Qubes OS](https://www.qubes-os.org/)
 - [Tails](https://tails.net/)
+
+## Remote Desktop
+
+### Protocols & Official Clients
+- [Remote Desktop Services (RDP) Docs](https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/welcome-to-rds)
+- [Windows App (Microsoft Remote Desktop Client)](https://apps.microsoft.com/detail/9wzdncrfj3ps)
+- [Chrome Remote Desktop](https://remotedesktop.google.com/)
+- [Apple Remote Desktop](https://support.apple.com/guide/remote-desktop/welcome/mac)
+
+### RDP Implementations
+- [FreeRDP](https://www.freerdp.com/)
+- [FreeRDP (GitHub)](https://github.com/FreeRDP/FreeRDP)
+- [xrdp](https://www.xrdp.org/)
+- [Remmina](https://remmina.org/)
+
+### VNC
+- [TigerVNC](https://tigervnc.org/)
+- [TightVNC](https://tightvnc.com/)
+- [RealVNC](https://www.realvnc.com/)
+- [noVNC (Browser VNC Client)](https://novnc.com/)
+- [KasmVNC](https://github.com/kasmtech/KasmVNC)
+
+### Other Remote Desktop Tools
+- [RustDesk (Open Source)](https://rustdesk.com/)
+- [AnyDesk](https://www.anydesk.com/)
+- [TeamViewer](https://www.teamviewer.com/)
+- [NoMachine](https://www.nomachine.com/)
+- [X2Go](https://wiki.x2go.org/)
+- [Splashtop](https://www.splashtop.com/)
+- [Jump Desktop](https://www.jumpdesktop.com/)
+- [ThinLinc](https://www.cendio.com/thinlinc/)
+
+### Gateways & Browser Access
+- [Apache Guacamole](https://guacamole.apache.org/)
+- [Kasm Workspaces](https://kasmweb.com/)
+- [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/)
+- [Tailscale](https://tailscale.com/)
+- [ZeroTier](https://zerotier.com/)
+
+### Game / Low-Latency Streaming
+- [Parsec](https://parsec.app/)
+- [Moonlight](https://moonlight-stream.org/)
+- [Sunshine](https://github.com/LizardByte/Sunshine)
+
+### Cloud Desktops (VDI)
+- [Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/)
+- [Windows 365](https://www.microsoft.com/en-us/windows-365)
+- [Amazon WorkSpaces](https://aws.amazon.com/workspaces/)
+- [Amazon DCV](https://docs.aws.amazon.com/dcv/)
+- [Citrix](https://citrix.com/)
+- [Omnissa Horizon](https://www.omnissa.com/products/horizon/)
