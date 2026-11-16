@@ -54,3 +54,19 @@
 - [OSCC-SEC (SEC-100)](https://www.offsec.com/courses/sec-100/)
 - [OSCC-SJD (SJD-100)](https://www.offsec.com/courses/sjd-100/)
 - [AI-300 (AI Cybersecurity)](https://www.offsec.com/courses/ai-300/)
+
+## TCM Security Certifications
+
+- [Practical Help Desk Associate (PHDA)](https://certifications.tcm-sec.com/phda/)
+- [Practical Junior Penetration Tester (PJPT)](https://certifications.tcm-sec.com/pjpt/)
+- [Practical Network Penetration Tester (PNPT)](https://certifications.tcm-sec.com/pnpt/)
+- [Practical Web Pentest Associate (PWPA)](https://certifications.tcm-sec.com/pwpa/)
+- [Practical Web Pentest Professional (PWPP)](https://certifications.tcm-sec.com/pwpp/)
+- [Practical Web Pentest Expert (PWPE)](https://certifications.tcm-sec.com/pwpe/)
+- [Practical Mobile Pentest Associate (PMPA)](https://certifications.tcm-sec.com/pmpa/)
+- [Practical IoT Pentest Associate (PIPA)](https://certifications.tcm-sec.com/pipa/)
+- [Practical AI Pentest Associate (PAPA)](https://certifications.tcm-sec.com/papa/)
+- [Practical SOC Analyst Associate (PSAA)](https://certifications.tcm-sec.com/psaa/)
+- [Practical SOC Analyst Professional (PSAP)](https://certifications.tcm-sec.com/psap/)
+- [Practical Malware Research Professional (PMRP)](https://certifications.tcm-sec.com/pmrp/)
+- [Practical OSINT Research Professional (PORP)](https://certifications.tcm-sec.com/porp/)
