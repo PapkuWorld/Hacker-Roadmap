@@ -220,3 +220,45 @@
 ### Blogs & Tutorials
 - [Josh W. Comeau](https://www.joshwcomeau.com/)
 - [Web Dev Simplified](https://webdevsimplified.com/)
+
+## Web Security
+
+### Tools
+- [Burp Suite](https://portswigger.net/burp)
+- [OWASP ZAP](https://www.zaproxy.org/)
+- [sqlmap](https://sqlmap.org/)
+- [ffuf](https://github.com/ffuf/ffuf)
+- [Nuclei](https://github.com/projectdiscovery/nuclei)
+- [Subfinder](https://github.com/projectdiscovery/subfinder)
+- [Nmap](https://nmap.org/)
+- [SecLists](https://github.com/danielmiessler/SecLists)
+
+### Learning
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+- [OWASP API Security Project](https://owasp.org/www-project-api-security/)
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
+- [PentesterLab](https://pentesterlab.com/)
+- [Hacker101](https://www.hackerone.com/hacker101)
+- [Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
+- [CWE (Common Weakness Enumeration)](https://cwe.mitre.org/)
+
+### Vulnerable Apps & Practice
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+- [DVWA](https://github.com/digininja/DVWA)
+- [WebGoat](https://github.com/WebGoat/WebGoat)
+- [Hacker101 CTF](https://ctf.hacker101.com/)
+- [Google XSS Game](https://xss-game.appspot.com/)
+
+### Bug Bounty
+- [HackerOne](https://hackerone.com/)
+- [HackerOne Hacktivity](https://hackerone.com/hacktivity)
+- [Bugcrowd](https://www.bugcrowd.com/)
+- [Pentester Land](https://pentester.land/)
+- [Bug Bounty Cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
+
+### References & Research
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [HackTricks](https://book.hacktricks.wiki/)
+- [PortSwigger Research](https://portswigger.net/research)
