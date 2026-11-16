@@ -903,3 +903,17 @@
 - [Drata](https://drata.com/)
 - [Secureframe](https://secureframe.com/)
 - [Open Policy Agent](https://www.openpolicyagent.org/)
+
+## CyberDefenders
+
+### Certifications
+- [CCDL1 (Certified CyberDefender Level 1)](https://cyberdefenders.org/certifications/certified-cyberdefender-level1/)
+- [CCDL2 (Certified CyberDefender Level 2)](https://cyberdefenders.org/certifications/certified-cyberdefender-level2/)
+
+### Training & Labs
+- [CyberDefenders](https://cyberdefenders.org/)
+- [Blue Team Labs](https://cyberdefenders.org/blue-team-labs/)
+- [Blue Team CTF Challenges](https://cyberdefenders.org/blueteam-ctf-challenges/)
+- [Blue Team Training](https://cyberdefenders.org/blue-team-training/)
+- [Cybersecurity Pathways](https://cyberdefenders.org/certifications/cybersecurity-pathways/)
+- [Pricing](https://cyberdefenders.org/pricing/)
