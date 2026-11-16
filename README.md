@@ -480,3 +480,68 @@
 - [Scapy](https://scapy.net/)
 - [pwntools](https://docs.pwntools.com/)
 - [Impacket](https://github.com/fortra/impacket)
+
+## Operating Systems
+
+### Courses & Books
+- [Operating Systems: Three Easy Pieces (OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [MIT 6.S081: Operating System Engineering](https://pdos.csail.mit.edu/6.S081/)
+- [MIT 6.828: Operating System Engineering (archive)](https://pdos.csail.mit.edu/6.828/)
+- [Berkeley CS162](https://cs162.org/)
+- [Princeton COS 318](https://www.cs.princeton.edu/courses/archive/fall18/cos318/)
+- [ops-class.org](https://ops-class.org/)
+- [Computer Systems: A Programmer's Perspective (CS:APP)](https://csapp.cs.cmu.edu/)
+
+### Build Your Own OS
+- [xv6-riscv](https://github.com/mit-pdos/xv6-riscv)
+- [xv6 Book](https://github.com/mit-pdos/xv6-riscv-book)
+- [Writing an OS in Rust](https://os.phil-opp.com/)
+- [OSDev Wiki](https://wiki.osdev.org/)
+- [os-tutorial](https://github.com/cfenollosa/os-tutorial)
+- [The Little Book About OS Development](https://littleosbook.github.io/)
+- [Linux From Scratch](https://linuxfromscratch.org/)
+
+### Linux
+- [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+- [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [explainshell](https://explainshell.com/)
+- [Linux Foundation: Introduction to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/)
+- [edX Linux courses](https://www.edx.org/learn/linux)
+- [Linux man pages](https://man7.org/linux/man-pages/)
+- [The Linux Programming Interface](https://man7.org/tlpi/)
+- [ArchWiki](https://wiki.archlinux.org/)
+- [The Linux Documentation Project](https://tldp.org/)
+- [Debian Documentation](https://www.debian.org/doc/)
+- [Fedora Docs](https://docs.fedoraproject.org/)
+- [Ubuntu Tutorials](https://ubuntu.com/tutorials)
+- [NixOS Learn](https://nixos.org/learn/)
+- [Kali Linux Docs](https://www.kali.org/docs/)
+
+### Linux Kernel
+- [Linux Kernel Documentation](https://www.kernel.org/doc/html/latest/)
+- [Linux Kernel Labs](https://linux-kernel-labs.github.io/refs/heads/master/)
+- [Linux Kernel Source (Bootlin Elixir)](https://elixir.bootlin.com/linux/latest/source)
+- [Linux Kernel (GitHub)](https://github.com/torvalds/linux)
+- [LWN.net](https://lwn.net/)
+- [Brendan Gregg: Linux Performance](https://www.brendangregg.com/linuxperf.html)
+
+### Windows
+- [Windows API (Win32) Docs](https://learn.microsoft.com/en-us/windows/win32/)
+- [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/)
+- [Windows Driver Docs](https://learn.microsoft.com/en-us/windows-hardware/drivers/)
+- [Windows Internals](https://www.microsoftpressstore.com/store/windows-internals-part-1-system-architecture-processes-9780135462331)
+
+### macOS & Mobile
+- [Apple Kernel Programming Guide](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/Architecture/Architecture.html)
+- [Apple Developer Documentation](https://developer.apple.com/documentation/)
+- [Android Platform Architecture](https://developer.android.com/guide/platform)
+- [Android Open Source Project](https://source.android.com/)
+
+### BSD
+- [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/)
+- [OpenBSD FAQ](https://www.openbsd.org/faq/)
+
+### Security-Focused OS
+- [Qubes OS](https://www.qubes-os.org/)
+- [Tails](https://tails.net/)
