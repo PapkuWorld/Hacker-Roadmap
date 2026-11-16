@@ -429,3 +429,54 @@
 - [The C2 Matrix](https://www.thec2matrix.com/)
 - [C2 Matrix How-To](https://howto.thec2matrix.com/)
 - [Sliver Armory](https://github.com/sliverarmory)
+
+## Python
+
+### Learn Python
+- [Official Python Tutorial](https://docs.python.org/3/tutorial/)
+- [Harvard CS50P](https://cs50.harvard.edu/python/)
+- [Python for Everybody (py4e)](https://www.py4e.com/)
+- [Think Python](https://greenteapress.com/wp/think-python-2e/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Real Python](https://realpython.com/)
+- [Kaggle Learn Python](https://www.kaggle.com/learn/python)
+- [Learn Python](https://www.learnpython.org/)
+- [Python Tutor (visualize code)](https://pythontutor.com/)
+
+### Practice
+- [Exercism Python Track](https://exercism.org/tracks/python)
+- [Python Morsels](https://www.pythonmorsels.com/)
+- [Codewars](https://www.codewars.com/)
+- [Advent of Code](https://adventofcode.com/)
+- [The Python Challenge](https://www.pythonchallenge.com/)
+
+### Advanced
+- [Fluent Python](https://fluentpython.com/)
+- [Python Standard Library](https://docs.python.org/3/library/)
+- [Python HOWTOs](https://docs.python.org/3/howto/)
+- [Python Design Patterns Guide](https://python-patterns.guide/)
+- [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
+
+### Style & Standards
+- [PEP 8: Style Guide](https://peps.python.org/pep-0008/)
+- [PEP 20: The Zen of Python](https://peps.python.org/pep-0020/)
+
+### Libraries & Frameworks
+- [Awesome Python](https://github.com/vinta/awesome-python)
+- [PyPI](https://pypi.org/)
+- [pytest](https://docs.pytest.org/)
+- [Requests](https://requests.readthedocs.io/)
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [NumPy](https://numpy.org/)
+- [pandas](https://pandas.pydata.org/)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Flask](https://flask.palletsprojects.com/)
+- [Django](https://www.djangoproject.com/)
+- [FastAPI](https://fastapi.tiangolo.com/)
+
+### Python for Security
+- [Black Hat Python](https://nostarch.com/blackhatpython)
+- [Black Hat Python 3 code (GitHub)](https://github.com/EONRaider/blackhat-python3)
+- [Scapy](https://scapy.net/)
+- [pwntools](https://docs.pwntools.com/)
+- [Impacket](https://github.com/fortra/impacket)
