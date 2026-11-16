@@ -262,3 +262,27 @@
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [HackTricks](https://book.hacktricks.wiki/)
 - [PortSwigger Research](https://portswigger.net/research)
+
+## C2 (Command & Control)
+
+### Commercial
+- [Cobalt Strike](https://www.cobaltstrike.com/)
+- [Brute Ratel C4](https://bruteratel.com/)
+
+### Open Source
+- [Sliver](https://github.com/BishopFox/sliver)
+- [Havoc](https://github.com/HavocFramework/Havoc)
+- [Mythic](https://github.com/its-a-feature/Mythic) ([agents](https://github.com/MythicAgents))
+- [Empire](https://github.com/BC-SECURITY/Empire) ([Starkiller GUI](https://github.com/BC-SECURITY/Starkiller))
+- [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
+- [PoshC2](https://github.com/nettitude/PoshC2)
+- [Merlin](https://github.com/Ne0nd0g/merlin)
+- [Covenant](https://github.com/cobbr/Covenant)
+- [AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2)
+- [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY)
+- [dnscat2](https://github.com/iagox86/dnscat2)
+
+### Resources
+- [The C2 Matrix](https://www.thec2matrix.com/)
+- [C2 Matrix How-To](https://howto.thec2matrix.com/)
+- [Sliver Armory](https://github.com/sliverarmory)
