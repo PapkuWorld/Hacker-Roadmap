@@ -37,3 +37,20 @@
 - [HTB Certified Wi-Fi Pentesting Expert](https://academy.hackthebox.com/preview/certifications/htb-certified-wi-fi-pentesting-expert)
 - [HTB Certified Offensive AI Expert](https://academy.hackthebox.com/preview/certifications/htb-certified-offensive-ai-expert)
 - [HTB Certified Detection Engineering Principal](https://academy.hackthebox.com/preview/certifications/htb-certified-detection-engineering-principal)
+
+## OffSec Certifications
+
+- [OSCP+ (PEN-200)](https://www.offsec.com/courses/pen-200/)
+- [OSWP (PEN-210)](https://www.offsec.com/courses/pen-210/)
+- [OSEP (PEN-300)](https://www.offsec.com/courses/pen-300/)
+- [OSWA (WEB-200)](https://www.offsec.com/courses/web-200/)
+- [OSWE (WEB-300)](https://www.offsec.com/courses/web-300/)
+- [OSED (EXP-301)](https://www.offsec.com/courses/exp-301/)
+- [OSEE (EXP-401)](https://www.offsec.com/courses/exp-401/)
+- [OSDA (SOC-200)](https://www.offsec.com/courses/soc-200/)
+- [OSTH (TH-200)](https://www.offsec.com/courses/th-200/)
+- [OSIR (IR-200)](https://www.offsec.com/courses/ir-200/)
+- [KLCP (PEN-103)](https://www.offsec.com/courses/pen-103/)
+- [OSCC-SEC (SEC-100)](https://www.offsec.com/courses/sec-100/)
+- [OSCC-SJD (SJD-100)](https://www.offsec.com/courses/sjd-100/)
+- [AI-300 (AI Cybersecurity)](https://www.offsec.com/courses/ai-300/)
