@@ -112,6 +112,38 @@
 
 40. [Build Your Own X (CodeCrafters)](https://github.com/codecrafters-io/build-your-own-x)
 
+## System Design
+
+### Books
+- [Designing Data-Intensive Applications (Martin Kleppmann)](https://dataintensive.net/)
+- [Google SRE Book](https://sre.google/sre-book/table-of-contents/)
+- [Google SRE Workbook](https://sre.google/workbook/table-of-contents/)
+
+### Guides & Courses
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [ByteByteGo](https://bytebytego.com/)
+- [ByteByteGo System Design 101](https://github.com/ByteByteGoHq/system-design-101)
+- [Hello Interview: System Design](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
+- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+- [System Design Interview (checkcheckzz)](https://github.com/checkcheckzz/system-design-interview)
+- [Distributed Systems lectures (Martin Kleppmann)](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+
+### Architecture References
+- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
+- [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/)
+- [Amazon Builders' Library](https://aws.amazon.com/builders-library/)
+- [Martin Fowler: Architecture](https://martinfowler.com/architecture/)
+- [microservices.io](https://microservices.io/)
+- [The Twelve-Factor App](https://12factor.net/)
+
+### Real-World Engineering Blogs
+- [High Scalability](https://highscalability.com/)
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [All Things Distributed (Werner Vogels)](https://www.allthingsdistributed.com/)
+- [Meta Engineering](https://engineering.fb.com/)
+- [Uber Engineering](https://eng.uber.com/)
+- [Jepsen (distributed systems testing)](https://jepsen.io/)
+
 ## CompTIA Certifications
 
 ### Core
