@@ -661,3 +661,70 @@
 
 ### Books
 - [The Hardware Hacking Handbook](https://nostarch.com/hardwarehacking)
+
+## Forensics
+
+### Certifications & Training
+- [SANS Digital Forensics Courses](https://www.sans.org/cyber-security-courses/?focus-area=digital-forensics)
+- [GIAC GCFE (Certified Forensic Examiner)](https://www.giac.org/certifications/certified-forensic-examiner-gcfe/)
+- [GIAC GCFA (Certified Forensic Analyst)](https://www.giac.org/certifications/certified-forensic-analyst-gcfa/)
+- [GIAC GREM (Reverse Engineering Malware)](https://www.giac.org/certifications/reverse-engineering-malware-grem/)
+- [EC-Council CHFI](https://www.eccouncil.org/train-certify/computer-hacking-forensic-investigator-chfi/)
+- [IACIS](https://www.iacis.com/)
+- [ISFCE (CCE)](https://www.isfce.com/)
+- [Magnet Forensics Training](https://www.magnetforensics.com/)
+- [Hexordia](https://www.hexordia.com/)
+
+### Learn & Practice
+- [13Cubed Training](https://training.13cubed.com/)
+- [13Cubed (YouTube)](https://www.youtube.com/@13Cubed)
+- [DFIR Science (YouTube)](https://www.youtube.com/@DFIRScience)
+- [SANS Forensics (YouTube)](https://www.youtube.com/@SANSForensics)
+- [CyberDefenders](https://www.cyberdefenders.org/)
+- [CyberDefenders Blue Team CTFs](https://www.cyberdefenders.org/blueteam-ctf-challenges/)
+- [NIST CFReDS (Datasets)](https://cfreds.nist.gov/)
+- [Memory Analysis (memoryanalysis.net)](https://www.memoryanalysis.net/)
+
+### Disk & File System Forensics
+- [The Sleuth Kit](https://www.sleuthkit.org/)
+- [Autopsy](https://www.sleuthkit.org/autopsy/)
+- [Magnet AXIOM](https://www.magnetforensics.com/products/magnet-axiom/)
+- [FTK (Exterro)](https://exterro.com/ftk-product-downloads)
+- [Eric Zimmerman's Tools](https://ericzimmerman.github.io/)
+- [bulk_extractor](https://github.com/simsong/bulk_extractor)
+- [ExifTool](https://exiftool.org/)
+
+### Memory Forensics
+- [Volatility Foundation](https://www.volatilityfoundation.org/)
+- [Volatility 3](https://github.com/volatilityfoundation/volatility3)
+
+### Timeline & Triage
+- [Plaso / log2timeline](https://github.com/log2timeline/plaso)
+- [Plaso Docs](https://plaso.readthedocs.io/)
+- [Velociraptor](https://github.com/Velocidex/velociraptor)
+- [Velociraptor Docs](https://docs.velociraptor.app/)
+- [GRR Rapid Response](https://github.com/google/grr)
+- [SANS SIFT Workstation](https://www.sans.org/tools/sift-workstation/)
+- [PowerForensics](https://github.com/Invoke-IR/PowerForensics)
+- [Forensic Artifacts](https://github.com/ForensicArtifacts/artifacts)
+
+### Network Forensics
+- [Wireshark](https://www.wireshark.org/)
+
+### Malware & Detection
+- [YARA](https://virustotal.github.io/yara/)
+- [Yara Rules](https://github.com/Yara-Rules/rules)
+- [Sigma Rules](https://github.com/SigmaHQ/sigma)
+- [capa](https://github.com/mandiant/capa)
+- [FLARE-VM](https://github.com/mandiant/flare-vm)
+
+### Resources & Blogs
+- [The DFIR Report](https://thedfirreport.com/)
+- [DFIR Training](https://www.dfir.training/)
+- [DFIR Diva](https://dfirdiva.com/)
+- [Awesome Forensics](https://github.com/cugu/awesome-forensics)
+- [Forensics Wiki](https://forensicswiki.xyz/)
+- [NIST CFTT](https://www.nist.gov/itl/ssd/software-quality-group/computer-forensics-tool-testing-program-cftt)
+- [eForensics Magazine](https://www.eforensicsmag.com/)
+- [Forensic Focus](https://www.forensicfocus.com/)
+- [DFRWS](https://dfrws.org/)
