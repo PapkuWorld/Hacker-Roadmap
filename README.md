@@ -153,3 +153,30 @@
 - [AppDynamics Professional Implementer](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/appdynamics/professional-implementer/index.html)
 - [Cisco Customer Success Manager](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/customer-success-manager/index.html)
 - [Cisco Renewals Manager](https://www.cisco.com/site/us/en/learn/training-certifications/exams/crm.html)
+
+## Exploit Development
+
+### Learning Platforms
+- [pwn.college](https://pwn.college/)
+- [Exploit Education](https://exploit.education/)
+- [ROP Emporium](https://ropemporium.com/)
+- [Microcorruption](https://microcorruption.com/)
+- [OverTheWire: Narnia](https://overthewire.org/wargames/narnia/)
+
+### Practice (Wargames & CTFs)
+- [pwnable.kr](https://pwnable.kr/)
+- [pwnable.tw](https://pwnable.tw/)
+- [picoCTF](https://picoctf.org/)
+
+### Guides & Courses
+- [Nightmare (guyinatuxedo)](https://github.com/guyinatuxedo/nightmare)
+- [Modern Binary Exploitation (RPISEC MBE)](https://github.com/RPISEC/MBE)
+- [Corelan Team (Windows exploit tutorials)](https://www.corelan.be/)
+- [FuzzySecurity Tutorials](https://www.fuzzysecurity.com/tutorials.html)
+
+### Heap Exploitation
+- [how2heap (Shellphish)](https://github.com/shellphish/how2heap)
+
+### Reverse Engineering
+- [Reverse Engineering for Beginners](https://beginners.re/)
+- [crackmes.one](https://crackmes.one/)
