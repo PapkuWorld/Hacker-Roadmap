@@ -101,3 +101,10 @@
 - [LPIC-3 High Availability and Storage Clusters](https://www.lpi.org/our-certifications/lpic-3-306-overview/)
 - [DevOps Tools Engineer](https://www.lpi.org/our-certifications/devops-overview/)
 - [BSD Specialist](https://www.lpi.org/our-certifications/bsd-overview/)
+
+## Zero-Point Security Courses & Certifications
+
+- [Red Team Ops](https://www.zeropointsecurity.co.uk/course/red-team-ops)
+- [Red Team Ops II](https://www.zeropointsecurity.co.uk/course/red-team-ops-ii)
+- [UDRL and Sleepmask Development](https://www.zeropointsecurity.co.uk/course/udrl-sleepmask-dev)
+- [BOF Development & Tradecraft](https://www.zeropointsecurity.co.uk/course/bof-dev)
