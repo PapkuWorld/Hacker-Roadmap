@@ -108,3 +108,48 @@
 - [Red Team Ops II](https://www.zeropointsecurity.co.uk/course/red-team-ops-ii)
 - [UDRL and Sleepmask Development](https://www.zeropointsecurity.co.uk/course/udrl-sleepmask-dev)
 - [BOF Development & Tradecraft](https://www.zeropointsecurity.co.uk/course/bof-dev)
+
+## Cisco Certifications
+
+### Entry
+- [CCST IT Support / Networking](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/support-technician/index.html)
+- [CCST Cybersecurity](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/support-technician/index.html)
+- [Cisco Certified Field Technician (CCT)](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/technician/index.html)
+
+### Associate
+- [CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html)
+- [CCNA Automation](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html)
+- [CCNA Cybersecurity](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/cybersecurity/ccna-cybersecurity/index.html)
+
+### Professional
+- [CCNP Enterprise](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccnp-enterprise/index.html)
+- [CCNP Security](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/security/ccnp-security/index.html)
+- [CCNP Cybersecurity](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/cybersecurity/ccnp-cybersecurity/index.html)
+- [CCNP Data Center](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/datacenter/ccnp-data-center/index.html)
+- [CCNP Service Provider](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/service-provider/ccnp-service-provider/index.html)
+- [CCNP Collaboration](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/collaboration/ccnp-collaboration/index.html)
+- [CCNP Automation](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccnp-automation/index.html)
+- [CCNP Wireless](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/wireless/ccnp-wireless/index.html)
+
+### Expert
+- [CCIE Enterprise Infrastructure](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccie-enterprise-infrastructure/index.html)
+- [CCIE Security](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/security/ccie-security/index.html)
+- [CCIE Data Center](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/datacenter/ccie-data-center/index.html)
+- [CCIE Service Provider](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/service-provider/ccie-service-provider/index.html)
+- [CCIE Collaboration](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/collaboration/ccie-collaboration/index.html)
+- [CCIE Automation](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccie-automation/index.html)
+- [CCIE Wireless](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/wireless/ccie-wireless/index.html)
+- [CCDE (Design Expert)](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/design/ccde/index.html)
+
+### Specialist & Other
+- [Specialist certifications](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/specialist.html)
+- [Cisco Certificate in Ethical Hacking](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/ethical-hacker/index.html)
+- [Cisco OT Security Practitioner](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/cybersecurity/ot-practitioner.html)
+- [AI Business Practitioner (AIBIZ)](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/ai/business-practitioner/index.html)
+- [AI Technical Practitioner (AITECH)](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/ai/technical-practitioner/index.html)
+- [Cisco Meraki Solutions Specialist](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/meraki-solutions/index.html)
+- [AppDynamics Associate Performance Analyst](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/appdynamics/associate-performance-analyst/index.html)
+- [AppDynamics Associate Administrator](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/appdynamics/associate-administrator/index.html)
+- [AppDynamics Professional Implementer](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/appdynamics/professional-implementer/index.html)
+- [Cisco Customer Success Manager](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/customer-success-manager/index.html)
+- [Cisco Renewals Manager](https://www.cisco.com/site/us/en/learn/training-certifications/exams/crm.html)
