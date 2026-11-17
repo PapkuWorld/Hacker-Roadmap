@@ -917,3 +917,93 @@
 - [Blue Team Training](https://cyberdefenders.org/blue-team-training/)
 - [Cybersecurity Pathways](https://cyberdefenders.org/certifications/cybersecurity-pathways/)
 - [Pricing](https://cyberdefenders.org/pricing/)
+
+## Artificial Intelligence
+
+### Foundations & Courses
+- [Machine Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/machine-learning-introduction)
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
+- [DeepLearning.AI](https://www.deeplearning.ai/)
+- [Harvard CS50 AI](https://cs50.harvard.edu/ai/)
+- [Berkeley CS188 (Intro to AI)](https://inst.eecs.berkeley.edu/~cs188/)
+- [Stanford CS229 (Machine Learning)](https://cs229.stanford.edu/)
+- [Stanford CS231n (Computer Vision)](https://cs231n.stanford.edu/)
+- [Stanford CS224n (NLP)](https://web.stanford.edu/class/cs224n/)
+- [Stanford CS336 (LLMs from Scratch)](https://cs336.stanford.edu/)
+- [Berkeley Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
+- [MIT 6.034 Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)
+- [fast.ai](https://course.fast.ai/)
+- [Hugging Face Learn](https://huggingface.co/learn)
+- [Kaggle Learn](https://www.kaggle.com/learn)
+- [Elements of AI](https://www.elementsofai.com/)
+
+### Books
+- [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/)
+- [Deep Learning (Goodfellow et al.)](https://www.deeplearningbook.org/)
+- [Dive into Deep Learning](https://d2l.ai/)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+- [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch)
+
+### LLMs
+- [Andrej Karpathy: Neural Networks Zero to Hero](https://karpathy.ai/zero-to-hero.html)
+- [Andrej Karpathy (YouTube)](https://www.youtube.com/@AndrejKarpathy)
+- [nanoGPT](https://github.com/karpathy/nanoGPT)
+- [llm.c](https://github.com/karpathy/llm.c)
+- [LLM Course](https://github.com/mlabonne/llm-course)
+- [Generative AI for Beginners (Microsoft)](https://github.com/microsoft/generative-ai-for-beginners)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [Learn Prompting](https://learnprompting.org/)
+
+### Frameworks & Libraries
+- [PyTorch](https://pytorch.org/)
+- [PyTorch Tutorials](https://pytorch.org/tutorials/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [JAX](https://jax.readthedocs.io/)
+- [scikit-learn](https://scikit-learn.org/)
+- [Hugging Face](https://huggingface.co/)
+- [LangChain](https://langchain.com/)
+- [LlamaIndex](https://www.llamaindex.ai/)
+
+### Run Models Locally
+- [Ollama](https://ollama.com/)
+- [LM Studio](https://lmstudio.ai/)
+- [llama.cpp](https://github.com/ggerganov/llama.cpp)
+- [vLLM](https://github.com/vllm-project/vllm)
+
+### AI Security & Red Teaming
+- [OWASP Top 10 for LLM Applications](https://genai.owasp.org/)
+- [MITRE ATLAS](https://atlas.mitre.org/)
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [PortSwigger LLM Attacks](https://portswigger.net/web-security/llm-attacks)
+- [Gandalf (Prompt Injection Game)](https://gandalf.lakera.ai/)
+- [HackAPrompt](https://www.hackaprompt.com/)
+- [PyRIT](https://github.com/Azure/PyRIT)
+- [garak](https://github.com/NVIDIA/garak)
+- [LLM Guard](https://github.com/protectai/llm-guard)
+- [ISACA AAISM](https://www.isaca.org/credentialing/aaism)
+
+### Certifications
+- [Microsoft Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
+- [Microsoft Azure AI Engineer](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/)
+- [AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/)
+- [AWS Certified Machine Learning Engineer - Associate](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/)
+- [Google Professional Machine Learning Engineer](https://cloud.google.com/learn/certification/machine-learning-engineer)
+
+### Research & Blogs
+- [arXiv](https://arxiv.org/)
+- [Papers with Code](https://paperswithcode.com/)
+- [Anthropic Research](https://www.anthropic.com/research)
+- [Google AI](https://ai.google/)
+- [OpenAI](https://openai.com/)
+- [OpenAI Spinning Up (Deep RL)](https://spinningup.openai.com/)
+- [Lilian Weng's Blog](https://lilianweng.github.io/)
+- [The Illustrated Transformer (Jay Alammar)](https://jalammar.github.io/)
+- [Chris Olah's Blog](https://colah.github.io/)
+- [Distill](https://distill.pub/)
+
+### Video Channels
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [StatQuest](https://www.youtube.com/@statquest)
+- [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
+- [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)
