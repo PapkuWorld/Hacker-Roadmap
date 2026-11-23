@@ -1,10 +1,7 @@
-# Companies
+# Operators & Companies
 
-[← Back to Roadmap](../../README.md) · [Networking and Telecommunications](README.md)
+[← Back to Roadmap](../../README.md) · [Telecommunications Engineering](README.md)
 
-- <img src="https://www.google.com/s2/favicons?domain=www.cisco.com&sz=32" width="16" height="16" alt=""> [Cisco](https://www.cisco.com)
-- <img src="https://www.google.com/s2/favicons?domain=www.juniper.net&sz=32" width="16" height="16" alt=""> [Juniper](https://www.juniper.net)
-- <img src="https://www.google.com/s2/favicons?domain=www.arista.com&sz=32" width="16" height="16" alt=""> [Arista](https://www.arista.com)
 - <img src="https://www.google.com/s2/favicons?domain=www.ericsson.com&sz=32" width="16" height="16" alt=""> [Ericsson](https://www.ericsson.com)
 - <img src="https://www.google.com/s2/favicons?domain=www.nokia.com&sz=32" width="16" height="16" alt=""> [Nokia](https://www.nokia.com)
 - <img src="https://www.google.com/s2/favicons?domain=www.huawei.com&sz=32" width="16" height="16" alt=""> [Huawei](https://www.huawei.com)
@@ -12,5 +9,3 @@
 - <img src="https://www.google.com/s2/favicons?domain=www.att.com&sz=32" width="16" height="16" alt=""> [AT&T](https://www.att.com)
 - <img src="https://www.google.com/s2/favicons?domain=www.t-mobile.com&sz=32" width="16" height="16" alt=""> [T-Mobile](https://www.t-mobile.com)
 - <img src="https://www.google.com/s2/favicons?domain=www.starlink.com&sz=32" width="16" height="16" alt=""> [Starlink](https://www.starlink.com)
-- <img src="https://www.google.com/s2/favicons?domain=www.cloudflare.com&sz=32" width="16" height="16" alt=""> [Cloudflare](https://www.cloudflare.com)
-- <img src="https://www.google.com/s2/favicons?domain=www.akamai.com&sz=32" width="16" height="16" alt=""> [Akamai](https://www.akamai.com)
