@@ -2,52 +2,46 @@
 
 [← Back to Roadmap](../../README.md) · [Criminal Justice & Policing](README.md)
 
-- <img src="https://www.google.com/s2/favicons?domain=www.fbi.gov&sz=32" width="16" height="16" alt=""> [FBI](https://www.fbi.gov)
-- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA](https://www.dea.gov)
-- <img src="https://www.google.com/s2/favicons?domain=www.atf.gov&sz=32" width="16" height="16" alt=""> [ATF](https://www.atf.gov)
-- <img src="https://www.google.com/s2/favicons?domain=www.usmarshals.gov&sz=32" width="16" height="16" alt=""> [US Marshals Service](https://www.usmarshals.gov)
-- <img src="https://www.google.com/s2/favicons?domain=www.secretservice.gov&sz=32" width="16" height="16" alt=""> [US Secret Service](https://www.secretservice.gov)
-- <img src="https://www.google.com/s2/favicons?domain=www.ice.gov&sz=32" width="16" height="16" alt=""> [Homeland Security Investigations (HSI)](https://www.ice.gov/hsi)
-- <img src="https://www.google.com/s2/favicons?domain=www.cbp.gov&sz=32" width="16" height="16" alt=""> [CBP](https://www.cbp.gov)
+## Contents
+
+- [Department of Justice (DOJ)](#department-of-justice-doj)
+  - [DOJ Headquarters & Programs](#doj-headquarters--programs)
+  - [Federal Bureau of Investigation (FBI)](#federal-bureau-of-investigation-fbi)
+  - [Drug Enforcement Administration (DEA)](#drug-enforcement-administration-dea)
+  - [Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)](#bureau-of-alcohol-tobacco-firearms-and-explosives-atf)
+  - [US Marshals Service (USMS)](#us-marshals-service-usms)
+  - [Federal Bureau of Prisons (BOP)](#federal-bureau-of-prisons-bop)
+- [Department of Homeland Security (DHS)](#department-of-homeland-security-dhs)
+  - [Homeland Security Investigations (HSI)](#homeland-security-investigations-hsi)
+  - [US Customs and Border Protection (CBP)](#us-customs-and-border-protection-cbp)
+  - [US Secret Service (USSS)](#us-secret-service-usss)
+  - [Cybersecurity and Infrastructure Security Agency (CISA)](#cybersecurity-and-infrastructure-security-agency-cisa)
+  - [Federal Law Enforcement Training Centers (FLETC)](#federal-law-enforcement-training-centers-fletc)
+- [Department of the Treasury](#department-of-the-treasury)
+  - [IRS Criminal Investigation (IRS-CI)](#irs-criminal-investigation-irs-ci)
+- [Independent Federal Agencies](#independent-federal-agencies)
+  - [US Postal Inspection Service (USPIS)](#us-postal-inspection-service-uspis)
+- [International Policing](#international-policing)
+  - [Interpol](#interpol)
+
+## Department of Justice (DOJ)
+
+### DOJ Headquarters & Programs
+
 - <img src="https://www.google.com/s2/favicons?domain=www.justice.gov&sz=32" width="16" height="16" alt=""> [US Department of Justice](https://www.justice.gov)
-- <img src="https://www.google.com/s2/favicons?domain=www.cisa.gov&sz=32" width="16" height="16" alt=""> [CISA](https://www.cisa.gov)
-- <img src="https://www.google.com/s2/favicons?domain=www.fletc.gov&sz=32" width="16" height="16" alt=""> [FLETC (Federal Law Enforcement Training Centers)](https://www.fletc.gov)
-- <img src="https://www.google.com/s2/favicons?domain=www.irs.gov&sz=32" width="16" height="16" alt=""> [IRS Criminal Investigation](https://www.irs.gov/compliance/criminal-investigation)
-- <img src="https://www.google.com/s2/favicons?domain=www.bop.gov&sz=32" width="16" height="16" alt=""> [Federal Bureau of Prisons](https://www.bop.gov)
-- <img src="https://www.google.com/s2/favicons?domain=www.uspis.gov&sz=32" width="16" height="16" alt=""> [USPIS (Postal Inspection Service)](https://www.uspis.gov)
-- <img src="https://www.google.com/s2/favicons?domain=www.interpol.int&sz=32" width="16" height="16" alt=""> [Interpol](https://www.interpol.int)
+- <img src="https://www.google.com/s2/favicons?domain=www.justice.gov&sz=32" width="16" height="16" alt=""> [About DOJ](https://www.justice.gov/about)
+- <img src="https://www.google.com/s2/favicons?domain=www.justice.gov&sz=32" width="16" height="16" alt=""> [DOJ Careers](https://www.justice.gov/careers)
+- <img src="https://www.google.com/s2/favicons?domain=www.justice.gov&sz=32" width="16" height="16" alt=""> [DOJ Agencies](https://www.justice.gov/agencies/chart)
+- <img src="https://www.google.com/s2/favicons?domain=www.ojp.gov&sz=32" width="16" height="16" alt=""> [Office of Justice Programs](https://www.ojp.gov)
+- <img src="https://www.google.com/s2/favicons?domain=nij.ojp.gov&sz=32" width="16" height="16" alt=""> [National Institute of Justice](https://nij.ojp.gov)
+- <img src="https://www.google.com/s2/favicons?domain=bjs.ojp.gov&sz=32" width="16" height="16" alt=""> [Bureau of Justice Statistics](https://bjs.ojp.gov)
+- <img src="https://www.google.com/s2/favicons?domain=cops.usdoj.gov&sz=32" width="16" height="16" alt=""> [COPS Office](https://cops.usdoj.gov)
+- <img src="https://www.google.com/s2/favicons?domain=oig.justice.gov&sz=32" width="16" height="16" alt=""> [Office of the Inspector General](https://oig.justice.gov)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: DOJ](https://en.wikipedia.org/wiki/United_States_Department_of_Justice)
 
-## Drug Enforcement Administration (DEA)
+### Federal Bureau of Investigation (FBI)
 
-- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA Official Site](https://www.dea.gov)
-- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [About the DEA](https://www.dea.gov/about)
-- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA History](https://www.dea.gov/who-we-are/history)
-- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA Careers](https://www.dea.gov/careers)
-- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA Special Agent](https://www.dea.gov/careers/special-agent)
-- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA Training Academy](https://www.dea.gov/operations/academy)
-- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA Press Releases](https://www.dea.gov/press-releases)
-- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA Drug Information](https://www.dea.gov/drug-information)
-- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA Drug Fact Sheets](https://www.dea.gov/factsheets)
-- <img src="https://www.google.com/s2/favicons?domain=www.deadiversion.usdoj.gov&sz=32" width="16" height="16" alt=""> [DEA Diversion Control Division](https://www.deadiversion.usdoj.gov)
-- <img src="https://www.google.com/s2/favicons?domain=www.deadiversion.usdoj.gov&sz=32" width="16" height="16" alt=""> [Controlled Substance Schedules](https://www.deadiversion.usdoj.gov/schedules/)
-- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [National Prescription Drug Take Back Day](https://www.dea.gov/takebackday)
-- <img src="https://www.google.com/s2/favicons?domain=www.getsmartaboutdrugs.gov&sz=32" width="16" height="16" alt=""> [Get Smart About Drugs](https://www.getsmartaboutdrugs.gov)
-- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [One Pill Can Kill](https://www.dea.gov/onepill)
-- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA FOIA](https://www.dea.gov/foia)
-- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA Museum](https://www.dea.gov/museum)
-- <img src="https://www.google.com/s2/favicons?domain=www.ecfr.gov&sz=32" width="16" height="16" alt=""> [21 CFR Chapter II (DEA Regulations)](https://www.ecfr.gov/current/title-21/chapter-II)
-- <img src="https://www.google.com/s2/favicons?domain=www.law.cornell.edu&sz=32" width="16" height="16" alt=""> [Controlled Substances Act](https://www.law.cornell.edu/uscode/text/21/chapter-13)
-- <img src="https://www.google.com/s2/favicons?domain=oig.justice.gov&sz=32" width="16" height="16" alt=""> [DOJ Office of the Inspector General](https://oig.justice.gov)
-- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: DEA](https://en.wikipedia.org/wiki/Drug_Enforcement_Administration)
-- <img src="https://www.google.com/s2/favicons?domain=www.usajobs.gov&sz=32" width="16" height="16" alt=""> [USAJOBS](https://www.usajobs.gov)
-- <img src="https://www.google.com/s2/favicons?domain=www.unodc.org&sz=32" width="16" height="16" alt=""> [UN Office on Drugs and Crime](https://www.unodc.org)
-- <img src="https://www.google.com/s2/favicons?domain=nida.nih.gov&sz=32" width="16" height="16" alt=""> [National Institute on Drug Abuse](https://nida.nih.gov)
-- <img src="https://www.google.com/s2/favicons?domain=www.samhsa.gov&sz=32" width="16" height="16" alt=""> [SAMHSA](https://www.samhsa.gov)
-- <img src="https://www.google.com/s2/favicons?domain=www.cdc.gov&sz=32" width="16" height="16" alt=""> [CDC Overdose Prevention](https://www.cdc.gov/overdose-prevention/)
-- <img src="https://www.google.com/s2/favicons?domain=www.whitehouse.gov&sz=32" width="16" height="16" alt=""> [ONDCP](https://www.whitehouse.gov/ondcp/)
-
-## Federal Bureau of Investigation (FBI)
-
+- <img src="https://www.google.com/s2/favicons?domain=www.fbi.gov&sz=32" width="16" height="16" alt=""> [FBI](https://www.fbi.gov)
 - <img src="https://www.google.com/s2/favicons?domain=www.fbi.gov&sz=32" width="16" height="16" alt=""> [About the FBI](https://www.fbi.gov/about)
 - <img src="https://www.google.com/s2/favicons?domain=www.fbi.gov&sz=32" width="16" height="16" alt=""> [FBI History](https://www.fbi.gov/history)
 - <img src="https://www.google.com/s2/favicons?domain=www.fbi.gov&sz=32" width="16" height="16" alt=""> [FBI Investigations](https://www.fbi.gov/investigate)
@@ -78,8 +72,38 @@
 - <img src="https://www.google.com/s2/favicons?domain=www.infragard.org&sz=32" width="16" height="16" alt=""> [InfraGard](https://www.infragard.org)
 - <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: FBI](https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation)
 
-## Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+### Drug Enforcement Administration (DEA)
 
+- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA Official Site](https://www.dea.gov)
+- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [About the DEA](https://www.dea.gov/about)
+- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA History](https://www.dea.gov/who-we-are/history)
+- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA Careers](https://www.dea.gov/careers)
+- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA Special Agent](https://www.dea.gov/careers/special-agent)
+- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA Training Academy](https://www.dea.gov/operations/academy)
+- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA Press Releases](https://www.dea.gov/press-releases)
+- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA Drug Information](https://www.dea.gov/drug-information)
+- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA Drug Fact Sheets](https://www.dea.gov/factsheets)
+- <img src="https://www.google.com/s2/favicons?domain=www.deadiversion.usdoj.gov&sz=32" width="16" height="16" alt=""> [DEA Diversion Control Division](https://www.deadiversion.usdoj.gov)
+- <img src="https://www.google.com/s2/favicons?domain=www.deadiversion.usdoj.gov&sz=32" width="16" height="16" alt=""> [Controlled Substance Schedules](https://www.deadiversion.usdoj.gov/schedules/)
+- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [National Prescription Drug Take Back Day](https://www.dea.gov/takebackday)
+- <img src="https://www.google.com/s2/favicons?domain=www.getsmartaboutdrugs.gov&sz=32" width="16" height="16" alt=""> [Get Smart About Drugs](https://www.getsmartaboutdrugs.gov)
+- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [One Pill Can Kill](https://www.dea.gov/onepill)
+- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA FOIA](https://www.dea.gov/foia)
+- <img src="https://www.google.com/s2/favicons?domain=www.dea.gov&sz=32" width="16" height="16" alt=""> [DEA Museum](https://www.dea.gov/museum)
+- <img src="https://www.google.com/s2/favicons?domain=www.ecfr.gov&sz=32" width="16" height="16" alt=""> [21 CFR Chapter II (DEA Regulations)](https://www.ecfr.gov/current/title-21/chapter-II)
+- <img src="https://www.google.com/s2/favicons?domain=www.law.cornell.edu&sz=32" width="16" height="16" alt=""> [Controlled Substances Act](https://www.law.cornell.edu/uscode/text/21/chapter-13)
+- <img src="https://www.google.com/s2/favicons?domain=oig.justice.gov&sz=32" width="16" height="16" alt=""> [DOJ Office of the Inspector General](https://oig.justice.gov)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: DEA](https://en.wikipedia.org/wiki/Drug_Enforcement_Administration)
+- <img src="https://www.google.com/s2/favicons?domain=www.usajobs.gov&sz=32" width="16" height="16" alt=""> [USAJOBS](https://www.usajobs.gov)
+- <img src="https://www.google.com/s2/favicons?domain=www.unodc.org&sz=32" width="16" height="16" alt=""> [UN Office on Drugs and Crime](https://www.unodc.org)
+- <img src="https://www.google.com/s2/favicons?domain=nida.nih.gov&sz=32" width="16" height="16" alt=""> [National Institute on Drug Abuse](https://nida.nih.gov)
+- <img src="https://www.google.com/s2/favicons?domain=www.samhsa.gov&sz=32" width="16" height="16" alt=""> [SAMHSA](https://www.samhsa.gov)
+- <img src="https://www.google.com/s2/favicons?domain=www.cdc.gov&sz=32" width="16" height="16" alt=""> [CDC Overdose Prevention](https://www.cdc.gov/overdose-prevention/)
+- <img src="https://www.google.com/s2/favicons?domain=www.whitehouse.gov&sz=32" width="16" height="16" alt=""> [ONDCP](https://www.whitehouse.gov/ondcp/)
+
+### Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+
+- <img src="https://www.google.com/s2/favicons?domain=www.atf.gov&sz=32" width="16" height="16" alt=""> [ATF](https://www.atf.gov)
 - <img src="https://www.google.com/s2/favicons?domain=www.atf.gov&sz=32" width="16" height="16" alt=""> [About the ATF](https://www.atf.gov/about)
 - <img src="https://www.google.com/s2/favicons?domain=www.atf.gov&sz=32" width="16" height="16" alt=""> [ATF History](https://www.atf.gov/our-history)
 - <img src="https://www.google.com/s2/favicons?domain=www.atf.gov&sz=32" width="16" height="16" alt=""> [ATF Careers](https://www.atf.gov/careers)
@@ -99,25 +123,29 @@
 - <img src="https://www.google.com/s2/favicons?domain=www.ecfr.gov&sz=32" width="16" height="16" alt=""> [27 CFR Chapter II (ATF Regulations)](https://www.ecfr.gov/current/title-27/chapter-II)
 - <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: ATF](https://en.wikipedia.org/wiki/Bureau_of_Alcohol,_Tobacco,_Firearms_and_Explosives)
 
-## US Marshals Service (USMS)
+### US Marshals Service (USMS)
 
+- <img src="https://www.google.com/s2/favicons?domain=www.usmarshals.gov&sz=32" width="16" height="16" alt=""> [US Marshals Service](https://www.usmarshals.gov)
 - <img src="https://www.google.com/s2/favicons?domain=www.usmarshals.gov&sz=32" width="16" height="16" alt=""> [About the USMS](https://www.usmarshals.gov/who-we-are)
 - <img src="https://www.google.com/s2/favicons?domain=www.usmarshals.gov&sz=32" width="16" height="16" alt=""> [USMS Careers](https://www.usmarshals.gov/careers)
 - <img src="https://www.google.com/s2/favicons?domain=www.usmarshals.gov&sz=32" width="16" height="16" alt=""> [Most Wanted Fugitives](https://www.usmarshals.gov/most-wanted)
 - <img src="https://www.google.com/s2/favicons?domain=www.usmarshals.gov&sz=32" width="16" height="16" alt=""> [Witness Security Program](https://www.usmarshals.gov/witsec)
 - <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: USMS](https://en.wikipedia.org/wiki/United_States_Marshals_Service)
 
-## US Secret Service (USSS)
+### Federal Bureau of Prisons (BOP)
 
-- <img src="https://www.google.com/s2/favicons?domain=www.secretservice.gov&sz=32" width="16" height="16" alt=""> [About the Secret Service](https://www.secretservice.gov/about)
-- <img src="https://www.google.com/s2/favicons?domain=www.secretservice.gov&sz=32" width="16" height="16" alt=""> [Secret Service Careers](https://www.secretservice.gov/careers)
-- <img src="https://www.google.com/s2/favicons?domain=www.secretservice.gov&sz=32" width="16" height="16" alt=""> [Investigations](https://www.secretservice.gov/investigations)
-- <img src="https://www.google.com/s2/favicons?domain=www.secretservice.gov&sz=32" width="16" height="16" alt=""> [Protection](https://www.secretservice.gov/protection)
-- <img src="https://www.google.com/s2/favicons?domain=www.secretservice.gov&sz=32" width="16" height="16" alt=""> [National Threat Assessment Center](https://www.secretservice.gov/protection/ntac)
-- <img src="https://www.google.com/s2/favicons?domain=www.secretservice.gov&sz=32" width="16" height="16" alt=""> [Cyber Investigations](https://www.secretservice.gov/investigations/cyber)
-- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Secret Service](https://en.wikipedia.org/wiki/United_States_Secret_Service)
+- <img src="https://www.google.com/s2/favicons?domain=www.bop.gov&sz=32" width="16" height="16" alt=""> [Federal Bureau of Prisons](https://www.bop.gov)
+- <img src="https://www.google.com/s2/favicons?domain=www.bop.gov&sz=32" width="16" height="16" alt=""> [About the BOP](https://www.bop.gov/about)
+- <img src="https://www.google.com/s2/favicons?domain=www.bop.gov&sz=32" width="16" height="16" alt=""> [BOP Careers](https://www.bop.gov/jobs)
+- <img src="https://www.google.com/s2/favicons?domain=www.bop.gov&sz=32" width="16" height="16" alt=""> [Inmate Locator](https://www.bop.gov/inmateloc/)
+- <img src="https://www.google.com/s2/favicons?domain=www.bop.gov&sz=32" width="16" height="16" alt=""> [Find a Facility](https://www.bop.gov/locations/)
+- <img src="https://www.google.com/s2/favicons?domain=www.bop.gov&sz=32" width="16" height="16" alt=""> [Inmate Statistics](https://www.bop.gov/about/statistics/)
+- <img src="https://www.google.com/s2/favicons?domain=www.bop.gov&sz=32" width="16" height="16" alt=""> [First Step Act](https://www.bop.gov/inmates/fsa/)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: BOP](https://en.wikipedia.org/wiki/Federal_Bureau_of_Prisons)
 
-## Homeland Security Investigations (HSI)
+## Department of Homeland Security (DHS)
+
+### Homeland Security Investigations (HSI)
 
 - <img src="https://www.google.com/s2/favicons?domain=www.ice.gov&sz=32" width="16" height="16" alt=""> [HSI Overview](https://www.ice.gov/hsi)
 - <img src="https://www.google.com/s2/favicons?domain=www.ice.gov&sz=32" width="16" height="16" alt=""> [Report a Crime (HSI Tip Line)](https://www.ice.gov/webform/hsi-tip-form)
@@ -125,8 +153,9 @@
 - <img src="https://www.google.com/s2/favicons?domain=www.dhs.gov&sz=32" width="16" height="16" alt=""> [DHS](https://www.dhs.gov)
 - <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: HSI](https://en.wikipedia.org/wiki/Homeland_Security_Investigations)
 
-## US Customs and Border Protection (CBP)
+### US Customs and Border Protection (CBP)
 
+- <img src="https://www.google.com/s2/favicons?domain=www.cbp.gov&sz=32" width="16" height="16" alt=""> [CBP](https://www.cbp.gov)
 - <img src="https://www.google.com/s2/favicons?domain=www.cbp.gov&sz=32" width="16" height="16" alt=""> [About CBP](https://www.cbp.gov/about)
 - <img src="https://www.google.com/s2/favicons?domain=www.cbp.gov&sz=32" width="16" height="16" alt=""> [CBP Careers](https://www.cbp.gov/careers)
 - <img src="https://www.google.com/s2/favicons?domain=www.cbp.gov&sz=32" width="16" height="16" alt=""> [Trade](https://www.cbp.gov/trade)
@@ -135,20 +164,20 @@
 - <img src="https://www.google.com/s2/favicons?domain=www.cbp.gov&sz=32" width="16" height="16" alt=""> [Border Security](https://www.cbp.gov/border-security)
 - <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: CBP](https://en.wikipedia.org/wiki/U.S._Customs_and_Border_Protection)
 
-## US Department of Justice (DOJ)
+### US Secret Service (USSS)
 
-- <img src="https://www.google.com/s2/favicons?domain=www.justice.gov&sz=32" width="16" height="16" alt=""> [About DOJ](https://www.justice.gov/about)
-- <img src="https://www.google.com/s2/favicons?domain=www.justice.gov&sz=32" width="16" height="16" alt=""> [DOJ Careers](https://www.justice.gov/careers)
-- <img src="https://www.google.com/s2/favicons?domain=www.justice.gov&sz=32" width="16" height="16" alt=""> [DOJ Agencies](https://www.justice.gov/agencies/chart)
-- <img src="https://www.google.com/s2/favicons?domain=www.ojp.gov&sz=32" width="16" height="16" alt=""> [Office of Justice Programs](https://www.ojp.gov)
-- <img src="https://www.google.com/s2/favicons?domain=nij.ojp.gov&sz=32" width="16" height="16" alt=""> [National Institute of Justice](https://nij.ojp.gov)
-- <img src="https://www.google.com/s2/favicons?domain=bjs.ojp.gov&sz=32" width="16" height="16" alt=""> [Bureau of Justice Statistics](https://bjs.ojp.gov)
-- <img src="https://www.google.com/s2/favicons?domain=cops.usdoj.gov&sz=32" width="16" height="16" alt=""> [COPS Office](https://cops.usdoj.gov)
-- <img src="https://www.google.com/s2/favicons?domain=oig.justice.gov&sz=32" width="16" height="16" alt=""> [Office of the Inspector General](https://oig.justice.gov)
-- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: DOJ](https://en.wikipedia.org/wiki/United_States_Department_of_Justice)
+- <img src="https://www.google.com/s2/favicons?domain=www.secretservice.gov&sz=32" width="16" height="16" alt=""> [US Secret Service](https://www.secretservice.gov)
+- <img src="https://www.google.com/s2/favicons?domain=www.secretservice.gov&sz=32" width="16" height="16" alt=""> [About the Secret Service](https://www.secretservice.gov/about)
+- <img src="https://www.google.com/s2/favicons?domain=www.secretservice.gov&sz=32" width="16" height="16" alt=""> [Secret Service Careers](https://www.secretservice.gov/careers)
+- <img src="https://www.google.com/s2/favicons?domain=www.secretservice.gov&sz=32" width="16" height="16" alt=""> [Investigations](https://www.secretservice.gov/investigations)
+- <img src="https://www.google.com/s2/favicons?domain=www.secretservice.gov&sz=32" width="16" height="16" alt=""> [Protection](https://www.secretservice.gov/protection)
+- <img src="https://www.google.com/s2/favicons?domain=www.secretservice.gov&sz=32" width="16" height="16" alt=""> [National Threat Assessment Center](https://www.secretservice.gov/protection/ntac)
+- <img src="https://www.google.com/s2/favicons?domain=www.secretservice.gov&sz=32" width="16" height="16" alt=""> [Cyber Investigations](https://www.secretservice.gov/investigations/cyber)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Secret Service](https://en.wikipedia.org/wiki/United_States_Secret_Service)
 
-## CISA
+### Cybersecurity and Infrastructure Security Agency (CISA)
 
+- <img src="https://www.google.com/s2/favicons?domain=www.cisa.gov&sz=32" width="16" height="16" alt=""> [CISA](https://www.cisa.gov)
 - <img src="https://www.google.com/s2/favicons?domain=www.cisa.gov&sz=32" width="16" height="16" alt=""> [About CISA](https://www.cisa.gov/about)
 - <img src="https://www.google.com/s2/favicons?domain=www.cisa.gov&sz=32" width="16" height="16" alt=""> [CISA Careers](https://www.cisa.gov/careers)
 - <img src="https://www.google.com/s2/favicons?domain=www.cisa.gov&sz=32" width="16" height="16" alt=""> [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
@@ -158,30 +187,25 @@
 - <img src="https://www.google.com/s2/favicons?domain=www.cisa.gov&sz=32" width="16" height="16" alt=""> [Critical Infrastructure Security](https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience)
 - <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: CISA](https://en.wikipedia.org/wiki/Cybersecurity_and_Infrastructure_Security_Agency)
 
-## FLETC
+### Federal Law Enforcement Training Centers (FLETC)
 
+- <img src="https://www.google.com/s2/favicons?domain=www.fletc.gov&sz=32" width="16" height="16" alt=""> [FLETC (Federal Law Enforcement Training Centers)](https://www.fletc.gov)
 - <img src="https://www.google.com/s2/favicons?domain=www.fletc.gov&sz=32" width="16" height="16" alt=""> [About FLETC](https://www.fletc.gov/about)
 - <img src="https://www.google.com/s2/favicons?domain=www.fletc.gov&sz=32" width="16" height="16" alt=""> [FLETC Training Programs](https://www.fletc.gov/training-programs)
 - <img src="https://www.google.com/s2/favicons?domain=www.fletc.gov&sz=32" width="16" height="16" alt=""> [FLETC Careers](https://www.fletc.gov/careers)
 - <img src="https://www.google.com/s2/favicons?domain=www.fletc.gov&sz=32" width="16" height="16" alt=""> [Training Locations](https://www.fletc.gov/locations)
 - <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: FLETC](https://en.wikipedia.org/wiki/Federal_Law_Enforcement_Training_Centers)
 
-## IRS Criminal Investigation (IRS-CI)
+## Department of the Treasury
+
+### IRS Criminal Investigation (IRS-CI)
 
 - <img src="https://www.google.com/s2/favicons?domain=www.irs.gov&sz=32" width="16" height="16" alt=""> [IRS-CI Overview](https://www.irs.gov/compliance/criminal-investigation)
 - <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: IRS-CI](https://en.wikipedia.org/wiki/IRS_Criminal_Investigation)
 
-## Federal Bureau of Prisons (BOP)
+## Independent Federal Agencies
 
-- <img src="https://www.google.com/s2/favicons?domain=www.bop.gov&sz=32" width="16" height="16" alt=""> [About the BOP](https://www.bop.gov/about)
-- <img src="https://www.google.com/s2/favicons?domain=www.bop.gov&sz=32" width="16" height="16" alt=""> [BOP Careers](https://www.bop.gov/jobs)
-- <img src="https://www.google.com/s2/favicons?domain=www.bop.gov&sz=32" width="16" height="16" alt=""> [Inmate Locator](https://www.bop.gov/inmateloc/)
-- <img src="https://www.google.com/s2/favicons?domain=www.bop.gov&sz=32" width="16" height="16" alt=""> [Find a Facility](https://www.bop.gov/locations/)
-- <img src="https://www.google.com/s2/favicons?domain=www.bop.gov&sz=32" width="16" height="16" alt=""> [Inmate Statistics](https://www.bop.gov/about/statistics/)
-- <img src="https://www.google.com/s2/favicons?domain=www.bop.gov&sz=32" width="16" height="16" alt=""> [First Step Act](https://www.bop.gov/inmates/fsa/)
-- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: BOP](https://en.wikipedia.org/wiki/Federal_Bureau_of_Prisons)
-
-## US Postal Inspection Service (USPIS)
+### US Postal Inspection Service (USPIS)
 
 - <img src="https://www.google.com/s2/favicons?domain=www.uspis.gov&sz=32" width="16" height="16" alt=""> [USPIS Overview](https://www.uspis.gov)
 - <img src="https://www.google.com/s2/favicons?domain=www.uspis.gov&sz=32" width="16" height="16" alt=""> [About USPIS](https://www.uspis.gov/about)
@@ -190,8 +214,11 @@
 - <img src="https://www.google.com/s2/favicons?domain=www.uspis.gov&sz=32" width="16" height="16" alt=""> [News](https://www.uspis.gov/news)
 - <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: USPIS](https://en.wikipedia.org/wiki/United_States_Postal_Inspection_Service)
 
-## Interpol
+## International Policing
 
+### Interpol
+
+- <img src="https://www.google.com/s2/favicons?domain=www.interpol.int&sz=32" width="16" height="16" alt=""> [Interpol](https://www.interpol.int)
 - <img src="https://www.google.com/s2/favicons?domain=www.interpol.int&sz=32" width="16" height="16" alt=""> [About INTERPOL](https://www.interpol.int/Who-we-are)
 - <img src="https://www.google.com/s2/favicons?domain=www.interpol.int&sz=32" width="16" height="16" alt=""> [INTERPOL Crime Areas](https://www.interpol.int/Crimes)
 - <img src="https://www.google.com/s2/favicons?domain=www.interpol.int&sz=32" width="16" height="16" alt=""> [Red Notices](https://www.interpol.int/How-we-work/Notices/Red-Notices)
