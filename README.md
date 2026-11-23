@@ -16,6 +16,9 @@ It starts with computer science, software development and cybersecurity. It then
 
 ## Contents
 
+### Philosophy
+- [Philosophy](docs/philosophy/README.md)
+
 ### Computer Science
 - [Computer Science](docs/computer-science-foundations/computer-science.md)
 - [System Design](docs/computer-science-foundations/system-design.md)
@@ -137,9 +140,6 @@ It starts with computer science, software development and cybersecurity. It then
 
 ### Witchcraft
 - [Witchcraft](docs/witchcraft/README.md)
-
-### Philosophy
-- [Philosophy](docs/philosophy/README.md)
 
 ### Political Science
 - [Political](docs/political/README.md)
