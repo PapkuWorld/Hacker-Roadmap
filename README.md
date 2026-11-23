@@ -81,6 +81,9 @@
 ### Dating
 - [Dating](docs/dating/README.md)
 
+### Social
+- [Social](docs/social/README.md)
+
 ### Personal Health
 - [Personal Health](docs/personal-health/README.md)
 
