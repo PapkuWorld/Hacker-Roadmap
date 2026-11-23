@@ -52,3 +52,6 @@
 
 ### Military Science
 - [Military Science](docs/military/README.md)
+
+### Linguistics
+- [Linguistics](docs/linguistics/README.md)
