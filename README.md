@@ -11,7 +11,7 @@
 
 ### Software Development
 - [Software Development](docs/software-development/README.md)
-- - [Programming Languages](docs/programming-languages/README.md)
+- [Programming Languages](docs/programming-languages/README.md)
 
 ### Information Technology
 - [Information Technology](docs/information-technology/README.md)
