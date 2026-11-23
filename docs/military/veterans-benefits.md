@@ -10,7 +10,7 @@
 - <img src="https://www.google.com/s2/favicons?domain=www.vfw.org&sz=32" width="16" height="16" alt=""> [VFW](https://www.vfw.org)
 - <img src="https://www.google.com/s2/favicons?domain=www.woundedwarriorproject.org&sz=32" width="16" height="16" alt=""> [Wounded Warrior Project](https://www.woundedwarriorproject.org)
 - <img src="https://www.google.com/s2/favicons?domain=studentveterans.org&sz=32" width="16" height="16" alt=""> [Student Veterans of America](https://studentveterans.org)
-- <img src="https://www.google.com/s2/favicons?domain=vetsec.org&sz=32" width="16" height="16" alt=""> [Hack the Hood / VetSec](https://vetsec.org)
+- <img src="https://www.google.com/s2/favicons?domain=vetsec.org&sz=32" width="16" height="16" alt=""> [VetSec](https://vetsec.org)
 - <img src="https://www.google.com/s2/favicons?domain=taskandpurpose.com&sz=32" width="16" height="16" alt=""> [Task & Purpose](https://taskandpurpose.com)
 - <img src="https://www.google.com/s2/favicons?domain=www.stripes.com&sz=32" width="16" height="16" alt=""> [Stars and Stripes](https://www.stripes.com)
 - <img src="https://www.google.com/s2/favicons?domain=www.defensenews.com&sz=32" width="16" height="16" alt=""> [Defense News](https://www.defensenews.com)
