@@ -2,7 +2,7 @@
 
 [← Back to Roadmap](../../README.md)
 
-Resources on the armed forces, careers, cyber and technology, defense industry, strategy, history and veterans.
+Resources on the armed forces, careers, cyber and technology, defense industry, strategy, history, veterans and paramilitary forces.
 
 ## Pages
 
@@ -14,3 +14,4 @@ Resources on the armed forces, careers, cyber and technology, defense industry, 
 - [Strategy & Policy](strategy-policy.md) (22)
 - [Military History](military-history.md) (14)
 - [Veterans & Benefits](veterans-benefits.md) (14)
+- [Paramilitary](paramilitary.md) (33)
