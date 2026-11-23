@@ -110,6 +110,9 @@
 ### Countries
 - [Countries](docs/countries/README.md)
 
+### Counter-Terrorism
+- [Counter-Terrorism](docs/counter-terrorism/README.md)
+
 ### Global Security
 - [Global Security](docs/global-security/README.md)
 
