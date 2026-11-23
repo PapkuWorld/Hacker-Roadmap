@@ -1,0 +1,21 @@
+# Abrahamic Religions
+
+[← Back to Roadmap](../../README.md) · [Religion](README.md)
+
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Christianity (Wikipedia)](https://en.wikipedia.org/wiki/Christianity)
+- <img src="https://www.google.com/s2/favicons?domain=www.vatican.va&sz=32" width="16" height="16" alt=""> [Catholic Church (Vatican)](https://www.vatican.va/)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Eastern Orthodox Church (Wikipedia)](https://en.wikipedia.org/wiki/Eastern_Orthodox_Church)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Protestantism (Wikipedia)](https://en.wikipedia.org/wiki/Protestantism)
+- <img src="https://www.google.com/s2/favicons?domain=www.oikoumene.org&sz=32" width="16" height="16" alt=""> [World Council of Churches](https://www.oikoumene.org/)
+- <img src="https://www.google.com/s2/favicons?domain=www.biblegateway.com&sz=32" width="16" height="16" alt=""> [Bible Gateway](https://www.biblegateway.com/)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Islam (Wikipedia)](https://en.wikipedia.org/wiki/Islam)
+- <img src="https://www.google.com/s2/favicons?domain=quran.com&sz=32" width="16" height="16" alt=""> [Quran.com](https://quran.com/)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Sunni Islam (Wikipedia)](https://en.wikipedia.org/wiki/Sunni_Islam)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Shia Islam (Wikipedia)](https://en.wikipedia.org/wiki/Shia_Islam)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Sufism (Wikipedia)](https://en.wikipedia.org/wiki/Sufism)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Judaism (Wikipedia)](https://en.wikipedia.org/wiki/Judaism)
+- <img src="https://www.google.com/s2/favicons?domain=www.sefaria.org&sz=32" width="16" height="16" alt=""> [Sefaria (Jewish Texts)](https://www.sefaria.org/)
+- <img src="https://www.google.com/s2/favicons?domain=www.myjewishlearning.com&sz=32" width="16" height="16" alt=""> [My Jewish Learning](https://www.myjewishlearning.com/)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Baha'i Faith (Wikipedia)](https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith)
+- <img src="https://www.google.com/s2/favicons?domain=www.bahai.org&sz=32" width="16" height="16" alt=""> [Baha'i International Community](https://www.bahai.org/)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Rastafari (Wikipedia)](https://en.wikipedia.org/wiki/Rastafari)
