@@ -60,6 +60,9 @@
 ### Chemistry
 - [Chemistry](docs/chemistry/README.md)
 
+### Biology
+- [Biology](docs/biology/README.md)
+
 ### Bioinformatics and Computational Biology
 - [Bioinformatics and Computational Biology](docs/bioinformatics/README.md)
 
