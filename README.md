@@ -29,19 +29,22 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 ### Mathematics
 - [Mathematics](docs/mathematics/README.md)
 
-### Physics
+### Physics & Cosmology
 - [Physics](docs/physics/README.md)
 
 ### Chemistry
 - [Chemistry](docs/chemistry/README.md)
 
-### Biology
+### Geology & Earth Science
+- [Geology & Earth Science](docs/geology-earth-science/README.md)
+
+### Biology & Evolution
 - [Biology](docs/biology/README.md)
 
 ### Prehistory
 - [Prehistory](docs/prehistory/README.md)
 
-### Mythology
+### Mythology & Religion
 - [Mythology](docs/mythology/README.md)
 
 ### History
@@ -50,21 +53,77 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 ### Philosophy
 - [Philosophy](docs/philosophy/README.md)
 
+### Natural Philosophy
+- [Natural Philosophy](docs/natural-philosophy/README.md)
+
 ### The Scientific Method
 - [The Scientific Method](docs/the-scientific-method/README.md)
 
 ### Modern Sciences
 - [Modern Sciences](docs/modern-sciences/README.md)
 
+### Quantum Physics
+- [Quantum Physics](docs/quantum-physics/README.md)
+
+### Classical Physics
+- [Classical Physics](docs/classical-physics/README.md)
+
+### Modern Chemistry
+- [Modern Chemistry](docs/modern-chemistry/README.md)
+
+### Molecular Biology & Genetics
+- [Molecular Biology & Genetics](docs/molecular-biology-genetics/README.md)
+
+### Organismal Biology
+- [Organismal Biology](docs/organismal-biology/README.md)
+
+### Ecology
+- [Ecology](docs/ecology/README.md)
+
+### Earth Sciences
+- [Earth Sciences](docs/earth-sciences/README.md)
+
+### Astrophysics
+- [Astrophysics](docs/astrophysics/README.md)
+
 ### Social Sciences
 - [Social Sciences](docs/social-sciences/README.md)
 
-### Computer Science
+### Psychology
+- [Psychology](docs/psychology/README.md)
+
+### Anthropology
+- [Anthropology](docs/anthropology/README.md)
+
+### Sociology
+- [Sociology](docs/sociology/README.md)
+
+### Linguistics
+- [Linguistics](docs/linguistics/README.md)
+
+### Economics
+- [Economics](docs/economics/README.md)
+
+### Political Science
+- [Political](docs/political/README.md)
+
+### Human Geography
+- [Human Geography](docs/human-geography/README.md)
+
+### Information Theory & Computer Science
 - [Computer Science](docs/computer-science-foundations/computer-science.md)
 - [System Design](docs/computer-science-foundations/system-design.md)
 - [Competitive Programming](docs/computer-science-foundations/competitive-programming.md)
 - [Programming Languages](docs/software-development/programming-languages/README.md)
 - [Operating Systems](docs/computer-science-foundations/operating-systems.md)
+- [Information Theory](docs/information-theory/README.md)
+
+### Artificial Intelligence & Cognitive Science
+- [Artificial Intelligence](docs/artificial-intelligence/README.md)
+- [Cognitive Science](docs/cognitive-science/README.md)
+
+### Bioengineering & Post-Humanism
+- [Bioengineering & Post-Humanism](docs/bioengineering-post-humanism/README.md)
 
 ### Software Development
 - [Software Development](docs/software-development/README.md)
@@ -87,9 +146,6 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 
 ### Data Science
 - [Data Science](docs/data-science/README.md)
-
-### Artificial Intelligence
-- [Artificial Intelligence](docs/artificial-intelligence/README.md)
 
 ### Human-Computer Interaction
 - [Human-Computer Interaction](docs/hci/README.md)
@@ -175,8 +231,8 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 ### Witchcraft
 - [Witchcraft](docs/witchcraft/README.md)
 
-### Political Science
-- [Political](docs/political/README.md)
+### Information Theory
+- [Information Theory](docs/information-theory/README.md)
 
-### Linguistics
-- [Linguistics](docs/linguistics/README.md)
+### Cognitive Science
+- [Cognitive Science](docs/cognitive-science/README.md)
