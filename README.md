@@ -43,3 +43,6 @@
 
 ### Artificial Intelligence
 - [Artificial Intelligence](docs/artificial-intelligence/README.md)
+
+### Criminal Justice & Policing
+- [Criminal Justice & Policing](docs/criminal-justice-and-policing/README.md)
