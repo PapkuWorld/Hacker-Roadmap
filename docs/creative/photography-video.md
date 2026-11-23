@@ -1,0 +1,22 @@
+# Photography & Video
+
+[← Back to Roadmap](../../README.md) · [Creative](README.md)
+
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Photography](https://en.wikipedia.org/wiki/Photography)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Filmmaking](https://en.wikipedia.org/wiki/Filmmaking)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Cinematography](https://en.wikipedia.org/wiki/Cinematography)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Video editing](https://en.wikipedia.org/wiki/Video_editing)
+- <img src="https://www.google.com/s2/favicons?domain=www.blackmagicdesign.com&sz=32" width="16" height="16" alt=""> [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+- <img src="https://www.google.com/s2/favicons?domain=www.adobe.com&sz=32" width="16" height="16" alt=""> [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
+- <img src="https://www.google.com/s2/favicons?domain=www.apple.com&sz=32" width="16" height="16" alt=""> [Final Cut Pro](https://www.apple.com/final-cut-pro)
+- <img src="https://www.google.com/s2/favicons?domain=kdenlive.org&sz=32" width="16" height="16" alt=""> [Kdenlive](https://kdenlive.org)
+- <img src="https://www.google.com/s2/favicons?domain=obsproject.com&sz=32" width="16" height="16" alt=""> [OBS Studio](https://obsproject.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.adobe.com&sz=32" width="16" height="16" alt=""> [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
+- <img src="https://www.google.com/s2/favicons?domain=www.darktable.org&sz=32" width="16" height="16" alt=""> [darktable](https://www.darktable.org)
+- <img src="https://www.google.com/s2/favicons?domain=unsplash.com&sz=32" width="16" height="16" alt=""> [Unsplash](https://unsplash.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.pexels.com&sz=32" width="16" height="16" alt=""> [Pexels](https://www.pexels.com)
+- <img src="https://www.google.com/s2/favicons?domain=photographylife.com&sz=32" width="16" height="16" alt=""> [Photography Life](https://photographylife.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.cambridgeincolour.com&sz=32" width="16" height="16" alt=""> [Cambridge in Colour](https://www.cambridgeincolour.com)
+- <img src="https://www.google.com/s2/favicons?domain=nofilmschool.com&sz=32" width="16" height="16" alt=""> [No Film School](https://nofilmschool.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.studiobinder.com&sz=32" width="16" height="16" alt=""> [StudioBinder](https://www.studiobinder.com)
+- <img src="https://www.google.com/s2/favicons?domain=vimeo.com&sz=32" width="16" height="16" alt=""> [Vimeo](https://vimeo.com)
