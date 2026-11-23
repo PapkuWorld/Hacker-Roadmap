@@ -110,6 +110,9 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 ### Human Geography
 - [Human Geography](docs/human-geography/README.md)
 
+### Electrical Engineering
+- [Electrical Engineering](docs/electrical-engineering/README.md)
+
 ### Computer Engineering
 - [Computer Engineering](docs/computer-engineering/README.md)
 
