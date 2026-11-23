@@ -8,6 +8,7 @@ Resources on law enforcement, courts, corrections, forensics, policy, careers an
 
 - [Overview](overview.md) (11)
 - [Federal Agencies](federal-agencies.md) (277)
+- [Municipal Agencies](municipal-agencies.md) (52)
 - [Careers & Training](careers-training.md) (14)
 - [Degrees & Courses](degrees-courses.md) (9)
 - [Digital Forensics & Cybercrime](digital-forensics-cybercrime.md) (13)
