@@ -11,14 +11,6 @@
 
 ### Software Development
 - [Software Development](docs/software-development/README.md)
-- Programming Languages
-  - [Python](docs/software-development/programming-languages/python.md)
-  - [C Programming](docs/software-development/programming-languages/c.md)
-  - [C# (.NET)](docs/software-development/programming-languages/csharp.md)
-  - [C++](docs/software-development/programming-languages/cpp.md)
-  - [Go (Golang)](docs/software-development/programming-languages/go.md)
-  - [Rust](docs/software-development/programming-languages/rust.md)
-  - [Web Development](docs/software-development/programming-languages/web-development.md)
 
 ### Information Technology
 - [Information Technology](docs/information-technology/README.md)
