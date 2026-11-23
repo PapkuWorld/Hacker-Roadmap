@@ -69,6 +69,9 @@
 ### Bioinformatics and Computational Biology
 - [Bioinformatics and Computational Biology](docs/bioinformatics/README.md)
 
+### Housing
+- [Housing](docs/housing/README.md)
+
 ### Personal Health
 - [Personal Health](docs/personal-health/README.md)
 
