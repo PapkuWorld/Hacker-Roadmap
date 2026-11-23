@@ -125,15 +125,15 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 #### Information Technology
 - [Information Technology](docs/information-technology/README.md)
 
+#### Network Engineering
+- [Network Engineering](docs/network-engineering/README.md)
+
 ### Artificial Intelligence & Cognitive Science
 - [Artificial Intelligence](docs/artificial-intelligence/README.md)
 - [Cognitive Science](docs/cognitive-science/README.md)
 
 ### Bioengineering & Post-Humanism
 - [Bioengineering & Post-Humanism](docs/bioengineering-post-humanism/README.md)
-
-### Network Engineering
-- [Network Engineering](docs/network-engineering/README.md)
 
 ### Telecommunications Engineering
 - [Telecommunications Engineering](docs/telecommunications-engineering/README.md)
