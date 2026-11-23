@@ -110,6 +110,9 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 ### Human Geography
 - [Human Geography](docs/human-geography/README.md)
 
+### Computer Engineering
+- [Computer Engineering](docs/computer-engineering/README.md)
+
 ### Information Theory & Computer Science
 - [Computer Science](docs/computer-science-foundations/computer-science.md)
 - [System Design](docs/computer-science-foundations/system-design.md)
@@ -137,9 +140,6 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 
 ### Bioengineering & Post-Humanism
 - [Bioengineering & Post-Humanism](docs/bioengineering-post-humanism/README.md)
-
-### Computer Engineering
-- [Computer Engineering](docs/computer-engineering/README.md)
 
 ### Information Systems
 - [Information Systems](docs/information-systems/README.md)
