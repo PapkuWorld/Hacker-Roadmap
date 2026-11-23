@@ -1,0 +1,20 @@
+# Tools & Workflow
+
+[← Back to Roadmap](../../README.md) · [Software Development](README.md)
+
+- <img src="https://www.google.com/s2/favicons?domain=git-scm.com&sz=32" width="16" height="16" alt=""> [Git](https://git-scm.com)
+- <img src="https://www.google.com/s2/favicons?domain=git-scm.com&sz=32" width="16" height="16" alt=""> [Pro Git Book](https://git-scm.com/book)
+- <img src="https://www.google.com/s2/favicons?domain=docs.github.com&sz=32" width="16" height="16" alt=""> [GitHub Docs](https://docs.github.com)
+- <img src="https://www.google.com/s2/favicons?domain=skills.github.com&sz=32" width="16" height="16" alt=""> [GitHub Skills](https://skills.github.com)
+- <img src="https://www.google.com/s2/favicons?domain=about.gitlab.com&sz=32" width="16" height="16" alt=""> [GitLab](https://about.gitlab.com)
+- <img src="https://www.google.com/s2/favicons?domain=code.visualstudio.com&sz=32" width="16" height="16" alt=""> [Visual Studio Code](https://code.visualstudio.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.jetbrains.com&sz=32" width="16" height="16" alt=""> [JetBrains](https://www.jetbrains.com)
+- <img src="https://www.google.com/s2/favicons?domain=neovim.io&sz=32" width="16" height="16" alt=""> [Neovim](https://neovim.io)
+- <img src="https://www.google.com/s2/favicons?domain=www.docker.com&sz=32" width="16" height="16" alt=""> [Docker](https://www.docker.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.postman.com&sz=32" width="16" height="16" alt=""> [Postman](https://www.postman.com)
+- <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="16" height="16" alt=""> [GitHub Actions](https://github.com/features/actions)
+- <img src="https://www.google.com/s2/favicons?domain=www.jenkins.io&sz=32" width="16" height="16" alt=""> [Jenkins](https://www.jenkins.io)
+- <img src="https://www.google.com/s2/favicons?domain=brew.sh&sz=32" width="16" height="16" alt=""> [Homebrew](https://brew.sh)
+- <img src="https://www.google.com/s2/favicons?domain=www.conventionalcommits.org&sz=32" width="16" height="16" alt=""> [Conventional Commits](https://www.conventionalcommits.org)
+- <img src="https://www.google.com/s2/favicons?domain=semver.org&sz=32" width="16" height="16" alt=""> [Semantic Versioning](https://semver.org)
+- <img src="https://www.google.com/s2/favicons?domain=learngitbranching.js.org&sz=32" width="16" height="16" alt=""> [Learn Git Branching](https://learngitbranching.js.org)
