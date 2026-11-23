@@ -113,6 +113,9 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 ### Electrical Engineering
 - [Electrical Engineering](docs/electrical-engineering/README.md)
 
+### Civil Engineering
+- [Civil Engineering](docs/civil-engineering/README.md)
+
 ### Computer Engineering
 - [Computer Engineering](docs/computer-engineering/README.md)
 
