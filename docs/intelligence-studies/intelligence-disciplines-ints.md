@@ -1,0 +1,15 @@
+# Intelligence Disciplines (INTs)
+
+[← Back to Roadmap](../../README.md) · [Intelligence Studies](README.md)
+
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: HUMINT](https://en.wikipedia.org/wiki/Human_intelligence_(intelligence_gathering))
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: SIGINT](https://en.wikipedia.org/wiki/Signals_intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: GEOINT](https://en.wikipedia.org/wiki/Geospatial_intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: IMINT](https://en.wikipedia.org/wiki/Imagery_intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: MASINT](https://en.wikipedia.org/wiki/Measurement_and_signature_intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Cyber threat intelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Financial intelligence](https://en.wikipedia.org/wiki/Financial_intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Social media intelligence](https://en.wikipedia.org/wiki/Social_media_intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: TECHINT](https://en.wikipedia.org/wiki/Technical_intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Electronic warfare](https://en.wikipedia.org/wiki/Electronic_warfare)
