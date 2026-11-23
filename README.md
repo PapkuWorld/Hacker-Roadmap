@@ -101,6 +101,9 @@
 ### Intelligence Studies
 - [Intelligence Studies](docs/intelligence-studies/README.md)
 
+### Law and Legal
+- [Law and Legal](docs/law-and-legal/README.md)
+
 ### Criminal Justice & Policing
 - [Criminal Justice & Policing](docs/criminal-justice-and-policing/README.md)
 
