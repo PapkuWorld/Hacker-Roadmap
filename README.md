@@ -18,7 +18,7 @@ It starts with computer science, software development, and cybersecurity. It the
 Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\rightarrow$ Physics & Cosmology $\rightarrow$ Chemistry $\rightarrow$ Geology & Earth Science $\rightarrow$ Biology & Evolution $\rightarrow$ Prehistory $\rightarrow$ Mythology & Religion $\rightarrow$ History $\rightarrow$ Philosophy $\rightarrow$ Natural Philosophy $\rightarrow$ The Scientific Method $\rightarrow$ [Quantum Physics $\rightarrow$ Classical Physics $\rightarrow$ Modern Chemistry $\rightarrow$ Molecular Biology & Genetics $\rightarrow$ Organismal Biology $\rightarrow$ Ecology $\rightarrow$ Earth Sciences $\rightarrow$ Astrophysics] $\rightarrow$ [Psychology $\rightarrow$ Anthropology $\rightarrow$ Sociology $\rightarrow$ Linguistics $\rightarrow$ Economics $\rightarrow$ Political Science $\rightarrow$ Human Geography] $\rightarrow$ Information Theory & Computer Science $\rightarrow$ Artificial Intelligence & Cognitive Science $\rightarrow$ Bioengineering & Post-Humanism
 
 
-## Contents
+## Table of Contents
 
 ### Pure Being & The Unknowable
 - [Pure Being & The Unknowable](docs/pure-being-the-unknowable/README.md)
@@ -162,6 +162,9 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 - [Operating Systems](docs/computer-science-foundations/operating-systems.md)
 - [Information Theory](docs/information-theory/README.md)
 
+### Information Systems
+- [Information Systems](docs/information-systems/README.md)
+
 ### Software Development
 - [Software Development](docs/software-development/README.md)
 - [Programming Languages](docs/software-development/programming-languages/README.md)
@@ -175,8 +178,10 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 ### Telecommunications Engineering
 - [Telecommunications Engineering](docs/telecommunications-engineering/README.md)
 
-### Artificial Intelligence & Cognitive Science
+### Artificial Intelligence 
 - [Artificial Intelligence](docs/artificial-intelligence/README.md)
+
+### Cognitive Science
 - [Cognitive Science](docs/cognitive-science/README.md)
 
 ### Robotics
@@ -185,8 +190,7 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 ### Bioengineering & Post-Humanism
 - [Bioengineering & Post-Humanism](docs/bioengineering-post-humanism/README.md)
 
-### Information Systems
-- [Information Systems](docs/information-systems/README.md)
+
 
 ### Data Science
 - [Data Science](docs/data-science/README.md)
