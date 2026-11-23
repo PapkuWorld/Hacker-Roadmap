@@ -155,17 +155,17 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 - [Operating Systems](docs/computer-science-foundations/operating-systems.md)
 - [Information Theory](docs/information-theory/README.md)
 
-#### Software Development
+### Software Development
 - [Software Development](docs/software-development/README.md)
 - [Programming Languages](docs/software-development/programming-languages/README.md)
 
-#### Information Technology
+### Information Technology
 - [Information Technology](docs/information-technology/README.md)
 
-#### Network Engineering
+### Network Engineering
 - [Network Engineering](docs/network-engineering/README.md)
 
-##### Telecommunications Engineering
+### Telecommunications Engineering
 - [Telecommunications Engineering](docs/telecommunications-engineering/README.md)
 
 ### Artificial Intelligence & Cognitive Science
