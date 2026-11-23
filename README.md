@@ -1,9 +1,9 @@
-# Paranoid Schizophrenia Hacker-Roadmap
+# Paranoid Schizophrenia Polymath Hacker-Roadmap
 11 Year Hacker Map
 
 ## Introduction
 
-Hacker-Roadmap is a curated, link-first map for learning how things work across many fields, not just hacking. It collects certifications, courses, tools, references, and official sources, sorted into topics you can explore at your own pace.
+Paranoid Schizophrenia Polymath Hacker-Roadmap is a curated, link-first map for learning how things work across many fields, not just hacking. It collects certifications, courses, tools, references, and official sources, sorted into topics you can explore at your own pace.
 
 It starts with computer science, software development, and cybersecurity. It then branches into AI, networking, law, criminal justice, counter-terrorism, global security, countries, military, business, science, philosophy, religion, and culture.
 
