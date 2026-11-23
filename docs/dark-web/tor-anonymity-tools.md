@@ -1,0 +1,22 @@
+# Tor & Anonymity Tools
+
+[← Back to Roadmap](../../README.md) · [Dark Web](README.md)
+
+- <img src="https://www.google.com/s2/favicons?domain=www.torproject.org&sz=32" width="16" height="16" alt=""> [Tor Project](https://www.torproject.org)
+- <img src="https://www.google.com/s2/favicons?domain=www.torproject.org&sz=32" width="16" height="16" alt=""> [Tor Browser](https://www.torproject.org/download)
+- <img src="https://www.google.com/s2/favicons?domain=support.torproject.org&sz=32" width="16" height="16" alt=""> [Tor Project Documentation](https://support.torproject.org)
+- <img src="https://www.google.com/s2/favicons?domain=community.torproject.org&sz=32" width="16" height="16" alt=""> [Tor Onion Services](https://community.torproject.org/onion-services)
+- <img src="https://www.google.com/s2/favicons?domain=metrics.torproject.org&sz=32" width="16" height="16" alt=""> [Tor Metrics](https://metrics.torproject.org)
+- <img src="https://www.google.com/s2/favicons?domain=tails.net&sz=32" width="16" height="16" alt=""> [Tails](https://tails.net)
+- <img src="https://www.google.com/s2/favicons?domain=www.whonix.org&sz=32" width="16" height="16" alt=""> [Whonix](https://www.whonix.org)
+- <img src="https://www.google.com/s2/favicons?domain=www.qubes-os.org&sz=32" width="16" height="16" alt=""> [Qubes OS](https://www.qubes-os.org)
+- <img src="https://www.google.com/s2/favicons?domain=geti2p.net&sz=32" width="16" height="16" alt=""> [I2P](https://geti2p.net)
+- <img src="https://www.google.com/s2/favicons?domain=freenetproject.org&sz=32" width="16" height="16" alt=""> [Freenet Project](https://freenetproject.org)
+- <img src="https://www.google.com/s2/favicons?domain=www.gnunet.org&sz=32" width="16" height="16" alt=""> [GNUnet](https://www.gnunet.org)
+- <img src="https://www.google.com/s2/favicons?domain=lokinet.org&sz=32" width="16" height="16" alt=""> [Lokinet](https://lokinet.org)
+- <img src="https://www.google.com/s2/favicons?domain=onionshare.org&sz=32" width="16" height="16" alt=""> [OnionShare](https://onionshare.org)
+- <img src="https://www.google.com/s2/favicons?domain=securedrop.org&sz=32" width="16" height="16" alt=""> [SecureDrop](https://securedrop.org)
+- <img src="https://www.google.com/s2/favicons?domain=briarproject.org&sz=32" width="16" height="16" alt=""> [Briar](https://briarproject.org)
+- <img src="https://www.google.com/s2/favicons?domain=protonvpn.com&sz=32" width="16" height="16" alt=""> [Proton VPN](https://protonvpn.com)
+- <img src="https://www.google.com/s2/favicons?domain=mullvad.net&sz=32" width="16" height="16" alt=""> [Mullvad VPN](https://mullvad.net)
+- <img src="https://www.google.com/s2/favicons?domain=signal.org&sz=32" width="16" height="16" alt=""> [Signal](https://signal.org)

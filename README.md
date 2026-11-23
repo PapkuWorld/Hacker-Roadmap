@@ -69,6 +69,9 @@
 ### Cybersecurity
 - [Cybersecurity Overview](docs/cybersecurity/README.md)
 
+### Dark Web
+- [Dark Web](docs/dark-web/README.md)
+
 ### Intelligence Studies
 - [Intelligence Studies](docs/intelligence-studies/README.md)
 
