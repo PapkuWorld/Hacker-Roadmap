@@ -69,6 +69,9 @@
 ### Bioinformatics and Computational Biology
 - [Bioinformatics and Computational Biology](docs/bioinformatics/README.md)
 
+### Personal Health
+- [Personal Health](docs/personal-health/README.md)
+
 ### Health Informatics
 - [Health Informatics](docs/health-informatics/README.md)
 
