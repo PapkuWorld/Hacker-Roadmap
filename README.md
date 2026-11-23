@@ -177,6 +177,9 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 - [Artificial Intelligence](docs/artificial-intelligence/README.md)
 - [Cognitive Science](docs/cognitive-science/README.md)
 
+#### Robotics
+- [Robotics](docs/robotics/README.md)
+
 ### Bioengineering & Post-Humanism
 - [Bioengineering & Post-Humanism](docs/bioengineering-post-humanism/README.md)
 
@@ -191,9 +194,6 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 
 ### Computer Graphics and Visualization
 - [Computer Graphics and Visualization](docs/graphics-visualization/README.md)
-
-### Robotics
-- [Robotics](docs/robotics/README.md)
 
 ### Game Design and Development
 - [Game Design and Development](docs/game-design-development/README.md)
