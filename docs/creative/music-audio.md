@@ -1,0 +1,23 @@
+# Music & Audio
+
+[← Back to Roadmap](../../README.md) · [Creative](README.md)
+
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Music theory](https://en.wikipedia.org/wiki/Music_theory)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Music production](https://en.wikipedia.org/wiki/Record_producer)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Digital audio workstation](https://en.wikipedia.org/wiki/Digital_audio_workstation)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Sound design](https://en.wikipedia.org/wiki/Sound_design)
+- <img src="https://www.google.com/s2/favicons?domain=www.ableton.com&sz=32" width="16" height="16" alt=""> [Ableton Live](https://www.ableton.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.image-line.com&sz=32" width="16" height="16" alt=""> [FL Studio](https://www.image-line.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.apple.com&sz=32" width="16" height="16" alt=""> [Logic Pro](https://www.apple.com/logic-pro)
+- <img src="https://www.google.com/s2/favicons?domain=www.reaper.fm&sz=32" width="16" height="16" alt=""> [Reaper](https://www.reaper.fm)
+- <img src="https://www.google.com/s2/favicons?domain=ardour.org&sz=32" width="16" height="16" alt=""> [Ardour](https://ardour.org)
+- <img src="https://www.google.com/s2/favicons?domain=www.audacityteam.org&sz=32" width="16" height="16" alt=""> [Audacity](https://www.audacityteam.org)
+- <img src="https://www.google.com/s2/favicons?domain=lmms.io&sz=32" width="16" height="16" alt=""> [LMMS](https://lmms.io)
+- <img src="https://www.google.com/s2/favicons?domain=www.bandlab.com&sz=32" width="16" height="16" alt=""> [Bandlab](https://www.bandlab.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.musictheory.net&sz=32" width="16" height="16" alt=""> [musictheory.net](https://www.musictheory.net)
+- <img src="https://www.google.com/s2/favicons?domain=www.teoria.com&sz=32" width="16" height="16" alt=""> [Teoria](https://www.teoria.com)
+- <img src="https://www.google.com/s2/favicons?domain=online.berklee.edu&sz=32" width="16" height="16" alt=""> [Berklee Online](https://online.berklee.edu)
+- <img src="https://www.google.com/s2/favicons?domain=splice.com&sz=32" width="16" height="16" alt=""> [Splice](https://splice.com)
+- <img src="https://www.google.com/s2/favicons?domain=freesound.org&sz=32" width="16" height="16" alt=""> [Freesound](https://freesound.org)
+- <img src="https://www.google.com/s2/favicons?domain=www.soundonsound.com&sz=32" width="16" height="16" alt=""> [Sound on Sound](https://www.soundonsound.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.avid.com&sz=32" width="16" height="16" alt=""> [Pro Tools](https://www.avid.com/pro-tools)

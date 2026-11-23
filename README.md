@@ -51,6 +51,9 @@
 ### Game Design and Development
 - [Game Design and Development](docs/game-design-development/README.md)
 
+### Creative
+- [Creative](docs/creative/README.md)
+
 ### Quantum Computing
 - [Quantum Computing](docs/quantum-computing/README.md)
 
