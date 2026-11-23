@@ -1,0 +1,20 @@
+# Careers & Industry
+
+[← Back to Roadmap](../../README.md) · [Chemistry](README.md)
+
+- <img src="https://www.google.com/s2/favicons?domain=www.acs.org&sz=32" width="16" height="16" alt=""> [ACS Careers](https://www.acs.org/careers.html)
+- <img src="https://www.google.com/s2/favicons?domain=cen.acs.org&sz=32" width="16" height="16" alt=""> [C&EN (Chemical & Engineering News)](https://cen.acs.org)
+- <img src="https://www.google.com/s2/favicons?domain=www.nature.com&sz=32" width="16" height="16" alt=""> [Nature Chemistry](https://www.nature.com/nchem)
+- <img src="https://www.google.com/s2/favicons?domain=www.chemistryworld.com&sz=32" width="16" height="16" alt=""> [Chemistry World](https://www.chemistryworld.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.basf.com&sz=32" width="16" height="16" alt=""> [BASF](https://www.basf.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.dow.com&sz=32" width="16" height="16" alt=""> [Dow](https://www.dow.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.dupont.com&sz=32" width="16" height="16" alt=""> [DuPont](https://www.dupont.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.3m.com&sz=32" width="16" height="16" alt=""> [3M](https://www.3m.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.merck.com&sz=32" width="16" height="16" alt=""> [Merck](https://www.merck.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.pfizer.com&sz=32" width="16" height="16" alt=""> [Pfizer](https://www.pfizer.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.sigmaaldrich.com&sz=32" width="16" height="16" alt=""> [Sigma-Aldrich (MilliporeSigma)](https://www.sigmaaldrich.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.thermofisher.com&sz=32" width="16" height="16" alt=""> [Thermo Fisher Scientific](https://www.thermofisher.com)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Chemical engineering](https://en.wikipedia.org/wiki/Chemical_engineering)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Materials science](https://en.wikipedia.org/wiki/Materials_science)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Cheminformatics](https://en.wikipedia.org/wiki/Cheminformatics)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Green chemistry](https://en.wikipedia.org/wiki/Green_chemistry)

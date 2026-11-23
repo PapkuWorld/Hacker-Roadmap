@@ -57,6 +57,9 @@
 ### Quantum Computing
 - [Quantum Computing](docs/quantum-computing/README.md)
 
+### Chemistry
+- [Chemistry](docs/chemistry/README.md)
+
 ### Bioinformatics and Computational Biology
 - [Bioinformatics and Computational Biology](docs/bioinformatics/README.md)
 
