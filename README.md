@@ -7,18 +7,21 @@
 - [Computer Science](docs/computer-science-foundations/computer-science.md)
 - [System Design](docs/computer-science-foundations/system-design.md)
 - [Competitive Programming](docs/computer-science-foundations/competitive-programming.md)
-- [Programming Languages](docs/programming-languages/README.md)
+- [Programming Languages](docs/software-development/programming-languages/README.md)
 - [Operating Systems](docs/computer-science-foundations/operating-systems.md)
 
 ### Software Development
 - [Software Development](docs/software-development/README.md)
-- [Programming Languages](docs/programming-languages/README.md)
+- [Programming Languages](docs/software-development/programming-languages/README.md)
 
 ### Information Technology
 - [Information Technology](docs/information-technology/README.md)
 
-### Networking and Telecommunications
-- [Networking and Telecommunications](docs/networking-telecommunications/README.md)
+### Network Engineering
+- [Network Engineering](docs/network-engineering/README.md)
+
+### Telecommunications Engineering
+- [Telecommunications Engineering](docs/telecommunications-engineering/README.md)
 
 ### Computer Engineering
 - [Computer Engineering](docs/computer-engineering/README.md)

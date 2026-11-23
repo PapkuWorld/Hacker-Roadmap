@@ -1,6 +1,6 @@
 # Telecommunications Engineering
 
-[← Back to Roadmap](../../README.md) · [Networking and Telecommunications](README.md)
+[← Back to Roadmap](../../README.md) · [Telecommunications Engineering](README.md)
 
 - <img src="https://www.google.com/s2/favicons?domain=www.itu.int&sz=32" width="16" height="16" alt=""> [ITU](https://www.itu.int)
 - <img src="https://www.google.com/s2/favicons?domain=www.3gpp.org&sz=32" width="16" height="16" alt=""> [3GPP](https://www.3gpp.org)
