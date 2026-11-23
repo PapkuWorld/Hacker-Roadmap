@@ -1,0 +1,8 @@
+[← Back to Types of AI](../artificial-intelligence.md#types-of-ai)
+
+# Knowledge Representation
+
+**Category:** Planning, Reasoning & Knowledge
+
+## Learn
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Knowledge Representation](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning)
