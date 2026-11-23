@@ -4,6 +4,16 @@
 
 Resources on learning to code, languages and frameworks, tools, architecture, testing, practice and careers.
 
+## Programming Languages
+
+- [Python](programming-languages/python.md)
+- [C Programming](programming-languages/c.md)
+- [C# (.NET)](programming-languages/csharp.md)
+- [C++](programming-languages/cpp.md)
+- [Go (Golang)](programming-languages/go.md)
+- [Rust](programming-languages/rust.md)
+- [Web Development](programming-languages/web-development.md)
+
 ## Pages
 
 - [Overview](overview.md) (13)

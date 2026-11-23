@@ -9,17 +9,15 @@
 - [Competitive Programming](docs/computer-science-foundations/competitive-programming.md)
 - [Operating Systems](docs/computer-science-foundations/operating-systems.md)
 
-### Programming Languages
-- [Python](docs/programming-languages/python.md)
-- [C Programming](docs/programming-languages/c.md)
-- [C# (.NET)](docs/programming-languages/csharp.md)
-- [C++](docs/programming-languages/cpp.md)
-- [Go (Golang)](docs/programming-languages/go.md)
-- [Rust](docs/programming-languages/rust.md)
-- [Web Development](docs/programming-languages/web-development.md)
-
 ### Software Development
 - [Software Development](docs/software-development/README.md)
+- [Python](docs/software-development/programming-languages/python.md)
+- [C Programming](docs/software-development/programming-languages/c.md)
+- [C# (.NET)](docs/software-development/programming-languages/csharp.md)
+- [C++](docs/software-development/programming-languages/cpp.md)
+- [Go (Golang)](docs/software-development/programming-languages/go.md)
+- [Rust](docs/software-development/programming-languages/rust.md)
+- [Web Development](docs/software-development/programming-languages/web-development.md)
 
 ### Information Technology
 - [Information Technology](docs/information-technology/README.md)
