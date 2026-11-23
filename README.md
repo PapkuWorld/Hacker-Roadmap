@@ -67,6 +67,9 @@
 ### Bioinformatics and Computational Biology
 - [Bioinformatics and Computational Biology](docs/bioinformatics/README.md)
 
+### Money Making
+- [Money Making](docs/money-making/README.md)
+
 ### Housing
 - [Housing](docs/housing/README.md)
 
