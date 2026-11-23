@@ -14,6 +14,10 @@ It starts with computer science, software development and cybersecurity. It then
 
 **Scope:** everything here is for education, defense and research. Nothing is meant to support illegal activity. Always follow the law and get authorization before testing any system.
 
+
+Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\rightarrow$ Physics & Cosmology $\rightarrow$ Chemistry $\rightarrow$ Geology & Earth Science $\rightarrow$ Biology & Evolution $\rightarrow$ Prehistory $\rightarrow$ Mythology & Religion $\rightarrow$ History $\rightarrow$ Philosophy $\rightarrow$ Natural Philosophy $\rightarrow$ The Scientific Method $\rightarrow$ [Quantum Physics $\rightarrow$ Classical Physics $\rightarrow$ Modern Chemistry $\rightarrow$ Molecular Biology & Genetics $\rightarrow$ Organismal Biology $\rightarrow$ Ecology $\rightarrow$ Earth Sciences $\rightarrow$ Astrophysics] $\rightarrow$ [Psychology $\rightarrow$ Anthropology $\rightarrow$ Sociology $\rightarrow$ Linguistics $\rightarrow$ Economics $\rightarrow$ Political Science $\rightarrow$ Human Geography] $\rightarrow$ Information Theory & Computer Science $\rightarrow$ Artificial Intelligence & Cognitive Science $\rightarrow$ Bioengineering & Post-Humanism
+
+
 ## Contents
 
 ### Pure Being & The Unknowable
