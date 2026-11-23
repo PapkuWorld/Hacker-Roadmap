@@ -46,6 +46,15 @@ It starts with computer science, software development and cybersecurity. It then
 ### Philosophy
 - [Philosophy](docs/philosophy/README.md)
 
+### The Scientific Method
+- [The Scientific Method](docs/the-scientific-method/README.md)
+
+### Modern Sciences
+- [Modern Sciences](docs/modern-sciences/README.md)
+
+### Social Sciences
+- [Social Sciences](docs/social-sciences/README.md)
+
 ### Computer Science
 - [Computer Science](docs/computer-science-foundations/computer-science.md)
 - [System Design](docs/computer-science-foundations/system-design.md)
