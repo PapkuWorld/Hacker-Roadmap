@@ -487,8 +487,19 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 ### Global Security
 - [Global Security](docs/global-security/README.md)
 
+### Movements
+- [Movements](docs/movements/README.md)
+
 ### Gangstalking
 - [Gang Stalking](docs/gangstalking/README.md)
+
+### Fitness
+- [Fitness](docs/fitness/README.md)
+
+### HIV
+- [HIV](docs/hiv/README.md)
+
+
 
 ### Military Science
 - [Military Science](docs/military/README.md)
