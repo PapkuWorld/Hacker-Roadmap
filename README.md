@@ -7,6 +7,7 @@
 - [Computer Science](docs/computer-science-foundations/computer-science.md)
 - [System Design](docs/computer-science-foundations/system-design.md)
 - [Competitive Programming](docs/computer-science-foundations/competitive-programming.md)
+- [Programming Languages](docs/programming-languages/README.md)
 - [Operating Systems](docs/computer-science-foundations/operating-systems.md)
 
 ### Software Development
