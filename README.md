@@ -60,28 +60,8 @@
 ### Health Informatics
 - [Health Informatics](docs/health-informatics/README.md)
 
-### Certifications
-- [CompTIA Certifications](docs/certifications/comptia/README.md)
-- [Cisco Certifications](docs/certifications/cisco/README.md)
-- [LPI Certifications](docs/certifications/lpi/README.md)
-- [GRC (Governance, Risk & Compliance)](docs/certifications/grc/README.md)
-- [Hack The Box Certifications](docs/certifications/hack-the-box/README.md)
-- [OffSec Certifications](docs/certifications/offsec/README.md)
-- [TCM Security Certifications](docs/certifications/tcm-security/README.md)
-- [Security Blue Team Certifications](docs/certifications/security-blue-team/README.md)
-- [CyberDefenders](docs/certifications/cyberdefenders/README.md)
-- [Zero-Point Security Courses & Certifications](docs/certifications/zero-point-security/README.md)
-
-### Offensive Security
-- [Exploit Development](docs/offensive-security/exploit-development.md)
-- [Web Security](docs/offensive-security/web-security.md)
-- [C2 (Command & Control)](docs/offensive-security/c2.md)
-- [Hardware Hacking](docs/offensive-security/hardware-hacking.md)
-- [Remote Desktop](docs/offensive-security/remote-desktop.md)
-
-### Defensive Security & Intelligence
-- [Forensics](docs/defensive-security/forensics.md)
-- [OSINT](docs/defensive-security/osint.md)
+### Cybersecurity
+- [Cybersecurity Overview](docs/cybersecurity/README.md)
 
 ### Intelligence Studies
 - [Intelligence Studies](docs/intelligence-studies/README.md)
