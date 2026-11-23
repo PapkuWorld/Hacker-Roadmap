@@ -1,0 +1,10 @@
+# Overview
+
+[← Back to Roadmap](../../README.md) · [Pure Being & The Unknowable](README.md)
+
+- <img src="https://www.google.com/s2/favicons?domain=plato.stanford.edu&sz=32" width="16" height="16" alt=""> [Metaphysics (Stanford Encyclopedia)](https://plato.stanford.edu/entries/metaphysics/)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Ontology (Wikipedia)](https://en.wikipedia.org/wiki/Ontology)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Being (Wikipedia)](https://en.wikipedia.org/wiki/Being)
+- <img src="https://www.google.com/s2/favicons?domain=plato.stanford.edu&sz=32" width="16" height="16" alt=""> [Existence (Stanford Encyclopedia)](https://plato.stanford.edu/entries/existence/)
+- <img src="https://www.google.com/s2/favicons?domain=plato.stanford.edu&sz=32" width="16" height="16" alt=""> [Parmenides (Stanford Encyclopedia)](https://plato.stanford.edu/entries/parmenides/)
+- <img src="https://www.google.com/s2/favicons?domain=plato.stanford.edu&sz=32" width="16" height="16" alt=""> [Heidegger (Stanford Encyclopedia)](https://plato.stanford.edu/entries/heidegger/)

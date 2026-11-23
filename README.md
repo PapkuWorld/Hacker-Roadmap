@@ -16,6 +16,33 @@ It starts with computer science, software development and cybersecurity. It then
 
 ## Contents
 
+### Pure Being & The Unknowable
+- [Pure Being & The Unknowable](docs/pure-being-the-unknowable/README.md)
+
+### Logic
+- [Logic](docs/logic/README.md)
+
+### Mathematics
+- [Mathematics](docs/mathematics/README.md)
+
+### Physics
+- [Physics](docs/physics/README.md)
+
+### Chemistry
+- [Chemistry](docs/chemistry/README.md)
+
+### Biology
+- [Biology](docs/biology/README.md)
+
+### Prehistory
+- [Prehistory](docs/prehistory/README.md)
+
+### Mythology
+- [Mythology](docs/mythology/README.md)
+
+### History
+- [History](docs/history/README.md)
+
 ### Philosophy
 - [Philosophy](docs/philosophy/README.md)
 
@@ -71,12 +98,6 @@ It starts with computer science, software development and cybersecurity. It then
 
 ### Quantum Computing
 - [Quantum Computing](docs/quantum-computing/README.md)
-
-### Chemistry
-- [Chemistry](docs/chemistry/README.md)
-
-### Biology
-- [Biology](docs/biology/README.md)
 
 ### Bioinformatics and Computational Biology
 - [Bioinformatics and Computational Biology](docs/bioinformatics/README.md)
