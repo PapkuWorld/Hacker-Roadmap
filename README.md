@@ -3,9 +3,9 @@
 
 ## Introduction
 
-Hacker-Roadmap is a curated, link-first map for learning how things work, across many fields and not only hacking. It collects certifications, courses, tools, references and official sources, sorted into topics you can explore at your own pace.
+Hacker-Roadmap is a curated, link-first map for learning how things work across many fields, not just hacking. It collects certifications, courses, tools, references and official sources, sorted into topics you can explore at your own pace.
 
-It starts with computer science, software development and cybersecurity. It then branches into AI, networking, law, criminal justice, counter-terrorism, global security, countries, military, business, science, philosophy, religion and culture.
+It starts with computer science, software development, and cybersecurity. It then branches into AI, networking, law, criminal justice, counter-terrorism, global security, countries, military, business, science, philosophy, religion, and culture.
 
 **How to use it**
 - Pick a topic under [Contents](#contents) and follow its README into the detailed pages.
@@ -179,7 +179,7 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 - [Artificial Intelligence](docs/artificial-intelligence/README.md)
 - [Cognitive Science](docs/cognitive-science/README.md)
 
-#### Robotics
+### Robotics
 - [Robotics](docs/robotics/README.md)
 
 ### Bioengineering & Post-Humanism
