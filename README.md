@@ -107,6 +107,9 @@
 ### Criminal Justice & Policing
 - [Criminal Justice & Policing](docs/criminal-justice-and-policing/README.md)
 
+### Countries
+- [Countries](docs/countries/README.md)
+
 ### Global Security
 - [Global Security](docs/global-security/README.md)
 
