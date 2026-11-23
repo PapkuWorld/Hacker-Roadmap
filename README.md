@@ -195,6 +195,9 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 ### Computer Graphics and Visualization
 - [Computer Graphics and Visualization](docs/graphics-visualization/README.md)
 
+### Robotics
+- [Robotics](docs/robotics/README.md)
+
 ### Game Design and Development
 - [Game Design and Development](docs/game-design-development/README.md)
 
