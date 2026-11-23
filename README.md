@@ -5,6 +5,11 @@
 
 ### Required Math
 
+**Absolute Beginner**
+- <img src="https://www.google.com/s2/favicons?domain=brilliant.org&sz=32" width="16" height="16" alt=""> [Brilliant](https://brilliant.org/)
+- <img src="https://www.google.com/s2/favicons?domain=brilliant.org&sz=32" width="16" height="16" alt=""> [Brilliant Foundational Math](https://brilliant.org/courses/foundational-math/)
+- <img src="https://www.google.com/s2/favicons?domain=brilliant.org&sz=32" width="16" height="16" alt=""> [Brilliant Math Fundamentals](https://brilliant.org/courses/math-fundamentals/)
+
 **Algebra & Precalculus**
 - <img src="https://www.google.com/s2/favicons?domain=www.khanacademy.org&sz=32" width="16" height="16" alt=""> [Khan Academy Algebra](https://www.khanacademy.org/math/algebra)
 - <img src="https://www.google.com/s2/favicons?domain=www.khanacademy.org&sz=32" width="16" height="16" alt=""> [Khan Academy Precalculus](https://www.khanacademy.org/math/precalculus)
