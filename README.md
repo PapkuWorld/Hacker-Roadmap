@@ -46,3 +46,6 @@
 
 ### Criminal Justice & Policing
 - [Criminal Justice & Policing](docs/criminal-justice-and-policing/README.md)
+
+### Intelligence Studies
+- [Intelligence Studies](docs/intelligence-studies/README.md)
