@@ -3,7 +3,7 @@
 
 ## Contents
 
-### Computer Science & Foundations
+### Computer Science
 - [Computer Science](docs/computer-science-foundations/computer-science.md)
 - [System Design](docs/computer-science-foundations/system-design.md)
 - [Competitive Programming](docs/computer-science-foundations/competitive-programming.md)
