@@ -1,0 +1,20 @@
+# Careers & Applications
+
+[← Back to Roadmap](../../README.md) · [Linguistics](README.md)
+
+- <img src="https://www.google.com/s2/favicons?domain=www.linguisticsociety.org&sz=32" width="16" height="16" alt=""> [Linguistics careers (LSA)](https://www.linguisticsociety.org/content/what-can-you-do-linguistics-degree)
+- <img src="https://www.google.com/s2/favicons?domain=www.atanet.org&sz=32" width="16" height="16" alt=""> [American Translators Association](https://www.atanet.org)
+- <img src="https://www.google.com/s2/favicons?domain=translatorswithoutborders.org&sz=32" width="16" height="16" alt=""> [Translators Without Borders](https://translatorswithoutborders.org)
+- <img src="https://www.google.com/s2/favicons?domain=www.proz.com&sz=32" width="16" height="16" alt=""> [ProZ](https://www.proz.com)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Translation](https://en.wikipedia.org/wiki/Translation)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Speech-language pathology](https://en.wikipedia.org/wiki/Speech-language_pathology)
+- <img src="https://www.google.com/s2/favicons?domain=www.asha.org&sz=32" width="16" height="16" alt=""> [American Speech-Language-Hearing Association](https://www.asha.org)
+- <img src="https://www.google.com/s2/favicons?domain=www.iafl.org&sz=32" width="16" height="16" alt=""> [IAFL (Forensic Linguists)](https://www.iafl.org)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Stylometry](https://en.wikipedia.org/wiki/Stylometry)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Authorship attribution](https://en.wikipedia.org/wiki/Authorship_attribution)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Cryptanalysis](https://en.wikipedia.org/wiki/Cryptanalysis)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Frequency analysis](https://en.wikipedia.org/wiki/Frequency_analysis)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Natural language user interface](https://en.wikipedia.org/wiki/Natural-language_user_interface)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Lexicography](https://en.wikipedia.org/wiki/Lexicography)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Conlang](https://en.wikipedia.org/wiki/Constructed_language)
+- <img src="https://www.google.com/s2/favicons?domain=conlang.org&sz=32" width="16" height="16" alt=""> [Language Creation Society](https://conlang.org)

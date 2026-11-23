@@ -1,0 +1,20 @@
+# Core Subfields
+
+[← Back to Roadmap](../../README.md) · [Linguistics](README.md)
+
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Phonetics](https://en.wikipedia.org/wiki/Phonetics)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Phonology](https://en.wikipedia.org/wiki/Phonology)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Morphology](https://en.wikipedia.org/wiki/Morphology_(linguistics))
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Syntax](https://en.wikipedia.org/wiki/Syntax)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Semantics](https://en.wikipedia.org/wiki/Semantics)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Pragmatics](https://en.wikipedia.org/wiki/Pragmatics)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Sociolinguistics](https://en.wikipedia.org/wiki/Sociolinguistics)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Psycholinguistics](https://en.wikipedia.org/wiki/Psycholinguistics)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Historical linguistics](https://en.wikipedia.org/wiki/Historical_linguistics)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Typology](https://en.wikipedia.org/wiki/Linguistic_typology)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Forensic linguistics](https://en.wikipedia.org/wiki/Forensic_linguistics)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Applied linguistics](https://en.wikipedia.org/wiki/Applied_linguistics)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Neurolinguistics](https://en.wikipedia.org/wiki/Neurolinguistics)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Generative grammar](https://en.wikipedia.org/wiki/Generative_grammar)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Cognitive linguistics](https://en.wikipedia.org/wiki/Cognitive_linguistics)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Language acquisition](https://en.wikipedia.org/wiki/Language_acquisition)

@@ -1,0 +1,20 @@
+# Language Learning
+
+[← Back to Roadmap](../../README.md) · [Linguistics](README.md)
+
+- <img src="https://www.google.com/s2/favicons?domain=www.duolingo.com&sz=32" width="16" height="16" alt=""> [Duolingo](https://www.duolingo.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.memrise.com&sz=32" width="16" height="16" alt=""> [Memrise](https://www.memrise.com)
+- <img src="https://www.google.com/s2/favicons?domain=apps.ankiweb.net&sz=32" width="16" height="16" alt=""> [Anki](https://apps.ankiweb.net)
+- <img src="https://www.google.com/s2/favicons?domain=fsi-languages.yojik.eu&sz=32" width="16" height="16" alt=""> [FSI Language Courses](https://fsi-languages.yojik.eu)
+- <img src="https://www.google.com/s2/favicons?domain=www.dliflc.edu&sz=32" width="16" height="16" alt=""> [Defense Language Institute (DLIFLC)](https://www.dliflc.edu)
+- <img src="https://www.google.com/s2/favicons?domain=www.state.gov&sz=32" width="16" height="16" alt=""> [Foreign Service Institute](https://www.state.gov/foreign-service-institute)
+- <img src="https://www.google.com/s2/favicons?domain=www.wiktionary.org&sz=32" width="16" height="16" alt=""> [Wiktionary](https://www.wiktionary.org)
+- <img src="https://www.google.com/s2/favicons?domain=forvo.com&sz=32" width="16" height="16" alt=""> [Forvo (pronunciation)](https://forvo.com)
+- <img src="https://www.google.com/s2/favicons?domain=tatoeba.org&sz=32" width="16" height="16" alt=""> [Tatoeba](https://tatoeba.org)
+- <img src="https://www.google.com/s2/favicons?domain=www.lingq.com&sz=32" width="16" height="16" alt=""> [LingQ](https://www.lingq.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.italki.com&sz=32" width="16" height="16" alt=""> [italki](https://www.italki.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.languagetransfer.org&sz=32" width="16" height="16" alt=""> [Language Transfer](https://www.languagetransfer.org)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Language proficiency](https://en.wikipedia.org/wiki/Language_proficiency)
+- <img src="https://www.google.com/s2/favicons?domain=www.actfl.org&sz=32" width="16" height="16" alt=""> [ACTFL](https://www.actfl.org)
+- <img src="https://www.google.com/s2/favicons?domain=www.coe.int&sz=32" width="16" height="16" alt=""> [Common European Framework (CEFR)](https://www.coe.int/en/web/common-european-framework-reference-languages)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [ILR Scale (Wikipedia)](https://en.wikipedia.org/wiki/ILR_scale)
