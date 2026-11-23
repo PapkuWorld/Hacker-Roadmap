@@ -189,3 +189,73 @@ Also called weak AI: systems built for one specific task (spam filters, face rec
 - <img src="https://www.google.com/s2/favicons?domain=www.shazam.com&sz=32" width="16" height="16" alt=""> [Shazam](https://www.shazam.com)
 - <img src="https://www.google.com/s2/favicons?domain=www.sensetime.com&sz=32" width="16" height="16" alt=""> [SenseTime](https://www.sensetime.com)
 - <img src="https://www.google.com/s2/favicons?domain=www.hikvision.com&sz=32" width="16" height="16" alt=""> [Hikvision](https://www.hikvision.com)
+
+# Military Narrow AI
+
+## Military Uses of AI
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Military Applications of AI (Wikipedia)](https://en.wikipedia.org/wiki/Military_applications_of_artificial_intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Lethal Autonomous Weapons (Wikipedia)](https://en.wikipedia.org/wiki/Lethal_autonomous_weapon)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Unmanned Combat Aerial Vehicles (Wikipedia)](https://en.wikipedia.org/wiki/Unmanned_combat_aerial_vehicle)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Loitering Munitions (Wikipedia)](https://en.wikipedia.org/wiki/Loitering_munition)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Missile Defense Systems (Wikipedia)](https://en.wikipedia.org/wiki/Missile_defense)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Automatic Target Recognition (Wikipedia)](https://en.wikipedia.org/wiki/Automatic_target_recognition)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Electronic Warfare (Wikipedia)](https://en.wikipedia.org/wiki/Electronic_warfare)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Command and Control Systems (Wikipedia)](https://en.wikipedia.org/wiki/Command_and_control)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Intelligence, Surveillance and Reconnaissance (Wikipedia)](https://en.wikipedia.org/wiki/Intelligence,_surveillance,_target_acquisition,_and_reconnaissance)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Military Logistics and Predictive Maintenance (Wikipedia)](https://en.wikipedia.org/wiki/Military_logistics)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Military Simulation and Wargaming (Wikipedia)](https://en.wikipedia.org/wiki/Wargame)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Cyber Warfare (Wikipedia)](https://en.wikipedia.org/wiki/Cyberwarfare)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Satellite Imagery Analysis (Wikipedia)](https://en.wikipedia.org/wiki/Imagery_analysis)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Project Maven (Wikipedia)](https://en.wikipedia.org/wiki/Project_Maven)
+
+## Government & Defense Programs
+- <img src="https://www.google.com/s2/favicons?domain=www.darpa.mil&sz=32" width="16" height="16" alt=""> [DARPA](https://www.darpa.mil)
+- <img src="https://www.google.com/s2/favicons?domain=www.darpa.mil&sz=32" width="16" height="16" alt=""> [DARPA AI Next Campaign](https://www.darpa.mil/work-with-us/ai-next-campaign)
+- <img src="https://www.google.com/s2/favicons?domain=www.darpa.mil&sz=32" width="16" height="16" alt=""> [DARPA Air Combat Evolution (ACE)](https://www.darpa.mil/research/programs/air-combat-evolution)
+- <img src="https://www.google.com/s2/favicons?domain=aicyberchallenge.com&sz=32" width="16" height="16" alt=""> [DARPA AI Cyber Challenge](https://aicyberchallenge.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.ai.mil&sz=32" width="16" height="16" alt=""> [DoD Chief Digital and AI Office (CDAO)](https://www.ai.mil)
+- <img src="https://www.google.com/s2/favicons?domain=rai.tradewindai.com&sz=32" width="16" height="16" alt=""> [DoD Responsible AI Toolkit](https://rai.tradewindai.com)
+- <img src="https://www.google.com/s2/favicons?domain=armyfuturescommand.com&sz=32" width="16" height="16" alt=""> [US Army Futures Command](https://armyfuturescommand.com)
+- <img src="https://www.google.com/s2/favicons?domain=afresearchlab.com&sz=32" width="16" height="16" alt=""> [US Air Force Research Laboratory](https://afresearchlab.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.nre.navy.mil&sz=32" width="16" height="16" alt=""> [Office of Naval Research](https://www.nre.navy.mil)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Joint Artificial Intelligence Center (Wikipedia)](https://en.wikipedia.org/wiki/Joint_Artificial_Intelligence_Center)
+- <img src="https://www.google.com/s2/favicons?domain=www.diana.nato.int&sz=32" width="16" height="16" alt=""> [NATO Innovation Hub (DIANA)](https://www.diana.nato.int)
+- <img src="https://www.google.com/s2/favicons?domain=www.gov.uk&sz=32" width="16" height="16" alt=""> [UK Defence AI Strategy](https://www.gov.uk/government/publications/defence-artificial-intelligence-strategy)
+
+## Policy, Ethics & Research
+- <img src="https://www.google.com/s2/favicons?domain=www.stopkillerrobots.org&sz=32" width="16" height="16" alt=""> [Stop Killer Robots](https://www.stopkillerrobots.org)
+- <img src="https://www.google.com/s2/favicons?domain=cset.georgetown.edu&sz=32" width="16" height="16" alt=""> [CSET Georgetown](https://cset.georgetown.edu)
+- <img src="https://www.google.com/s2/favicons?domain=www.sipri.org&sz=32" width="16" height="16" alt=""> [SIPRI: AI Military](https://www.sipri.org/research/armament-and-disarmament/emerging-military-and-security-technologies)
+- <img src="https://www.google.com/s2/favicons?domain=www.cnas.org&sz=32" width="16" height="16" alt=""> [CNAS: Technology and National Security](https://www.cnas.org/artificial-intelligence-and-global-security)
+- <img src="https://www.google.com/s2/favicons?domain=www.rand.org&sz=32" width="16" height="16" alt=""> [RAND: Artificial Intelligence](https://www.rand.org/topics/artificial-intelligence.html)
+
+## Defense Tech & Contractors
+- <img src="https://www.google.com/s2/favicons?domain=www.palantir.com&sz=32" width="16" height="16" alt=""> [Palantir](https://www.palantir.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.anduril.com&sz=32" width="16" height="16" alt=""> [Anduril](https://www.anduril.com)
+- <img src="https://www.google.com/s2/favicons?domain=shield.ai&sz=32" width="16" height="16" alt=""> [Shield AI](https://shield.ai)
+- <img src="https://www.google.com/s2/favicons?domain=scale.com&sz=32" width="16" height="16" alt=""> [Scale AI Public Sector](https://scale.com/public-sector)
+- <img src="https://www.google.com/s2/favicons?domain=www.lockheedmartin.com&sz=32" width="16" height="16" alt=""> [Lockheed Martin](https://www.lockheedmartin.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.northropgrumman.com&sz=32" width="16" height="16" alt=""> [Northrop Grumman](https://www.northropgrumman.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.rtx.com&sz=32" width="16" height="16" alt=""> [RTX (Raytheon)](https://www.rtx.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.gd.com&sz=32" width="16" height="16" alt=""> [General Dynamics](https://www.gd.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.boeing.com&sz=32" width="16" height="16" alt=""> [Boeing Defense](https://www.boeing.com/defense)
+- <img src="https://www.google.com/s2/favicons?domain=www.baesystems.com&sz=32" width="16" height="16" alt=""> [BAE Systems](https://www.baesystems.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.l3harris.com&sz=32" width="16" height="16" alt=""> [L3Harris](https://www.l3harris.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.leidos.com&sz=32" width="16" height="16" alt=""> [Leidos](https://www.leidos.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.boozallen.com&sz=32" width="16" height="16" alt=""> [Booz Allen Hamilton](https://www.boozallen.com)
+
+## AI Labs Working With Defense
+- <img src="https://www.google.com/s2/favicons?domain=www.anthropic.com&sz=32" width="16" height="16" alt=""> [Anthropic](https://www.anthropic.com)
+- <img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" alt=""> [OpenAI](https://openai.com)
+
+## International Defense Companies
+- <img src="https://www.google.com/s2/favicons?domain=elbitsystems.com&sz=32" width="16" height="16" alt=""> [Elbit Systems](https://elbitsystems.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.rafael.co.il&sz=32" width="16" height="16" alt=""> [Rafael Advanced Defense Systems](https://www.rafael.co.il)
+- <img src="https://www.google.com/s2/favicons?domain=www.baykartech.com&sz=32" width="16" height="16" alt=""> [Baykar](https://www.baykartech.com)
+- <img src="https://www.google.com/s2/favicons?domain=helsing.ai&sz=32" width="16" height="16" alt=""> [Helsing](https://helsing.ai)
+- <img src="https://www.google.com/s2/favicons?domain=www.saab.com&sz=32" width="16" height="16" alt=""> [Saab](https://www.saab.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.thalesgroup.com&sz=32" width="16" height="16" alt=""> [Thales](https://www.thalesgroup.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.rheinmetall.com&sz=32" width="16" height="16" alt=""> [Rheinmetall](https://www.rheinmetall.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.kratosdefense.com&sz=32" width="16" height="16" alt=""> [Kratos](https://www.kratosdefense.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.avinc.com&sz=32" width="16" height="16" alt=""> [AeroVironment](https://www.avinc.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.ga-asi.com&sz=32" width="16" height="16" alt=""> [General Atomics Aeronautical](https://www.ga-asi.com)
