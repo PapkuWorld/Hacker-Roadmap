@@ -1,0 +1,147 @@
+[← Back to Types of AI](../README.md#types-of-ai)
+
+# Strong AI
+
+**Category:** Capability Levels
+
+Strong AI is the philosophical position (from John Searle) that a suitably programmed computer would not just simulate a mind but actually have one, with real understanding and consciousness. It is often used interchangeably with AGI. This page collects the philosophy, science, labs and debate around it.
+
+## Overview
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Strong AI](https://en.wikipedia.org/wiki/Strong_AI)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Weak artificial intelligence](https://en.wikipedia.org/wiki/Weak_artificial_intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Philosophy of artificial intelligence](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Artificial consciousness](https://en.wikipedia.org/wiki/Artificial_consciousness)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Hard problem of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness)
+- <img src="https://www.google.com/s2/favicons?domain=www.ibm.com&sz=32" width="16" height="16" alt=""> [IBM: What is Strong AI?](https://www.ibm.com/topics/strong-ai)
+- <img src="https://www.google.com/s2/favicons?domain=plato.stanford.edu&sz=32" width="16" height="16" alt=""> [Stanford Encyclopedia: Artificial Intelligence](https://plato.stanford.edu/entries/artificial-intelligence/)
+- <img src="https://www.google.com/s2/favicons?domain=plato.stanford.edu&sz=32" width="16" height="16" alt=""> [Stanford Encyclopedia: The Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room/)
+- <img src="https://www.google.com/s2/favicons?domain=plato.stanford.edu&sz=32" width="16" height="16" alt=""> [Stanford Encyclopedia: The Turing Test](https://plato.stanford.edu/entries/turing-test/)
+- <img src="https://www.google.com/s2/favicons?domain=plato.stanford.edu&sz=32" width="16" height="16" alt=""> [Stanford Encyclopedia: Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/)
+- <img src="https://www.google.com/s2/favicons?domain=plato.stanford.edu&sz=32" width="16" height="16" alt=""> [Stanford Encyclopedia: Consciousness](https://plato.stanford.edu/entries/consciousness/)
+- <img src="https://www.google.com/s2/favicons?domain=iep.utm.edu&sz=32" width="16" height="16" alt=""> [Internet Encyclopedia of Philosophy: Chinese Room](https://iep.utm.edu/chinese-room-argument/)
+- <img src="https://www.google.com/s2/favicons?domain=iep.utm.edu&sz=32" width="16" height="16" alt=""> [Internet Encyclopedia of Philosophy: Artificial Intelligence](https://iep.utm.edu/artificial-intelligence/)
+
+## Key Arguments & Thought Experiments
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Chinese room](https://en.wikipedia.org/wiki/Chinese_room)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Turing test](https://en.wikipedia.org/wiki/Turing_test)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Physical symbol system](https://en.wikipedia.org/wiki/Physical_symbol_system)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Computational theory of mind](https://en.wikipedia.org/wiki/Computational_theory_of_mind)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Functionalism](https://en.wikipedia.org/wiki/Functionalism_(philosophy_of_mind))
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Qualia](https://en.wikipedia.org/wiki/Qualia)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Philosophical zombie](https://en.wikipedia.org/wiki/Philosophical_zombie)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Mind-body problem](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Lucas-Penrose argument](https://en.wikipedia.org/wiki/Penrose%E2%80%93Lucas_argument)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Symbol grounding problem](https://en.wikipedia.org/wiki/Symbol_grounding_problem)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Frame problem](https://en.wikipedia.org/wiki/Frame_problem)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: ELIZA effect](https://en.wikipedia.org/wiki/ELIZA_effect)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Integrated information theory](https://en.wikipedia.org/wiki/Integrated_information_theory)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Global workspace theory](https://en.wikipedia.org/wiki/Global_workspace_theory)
+- <img src="https://www.google.com/s2/favicons?domain=www.cambridge.org&sz=32" width="16" height="16" alt=""> [Minds, Brains, and Programs (Searle, 1980)](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/minds-brains-and-programs/DC644B47A4299C637C89772FACC2706A)
+- <img src="https://www.google.com/s2/favicons?domain=academic.oup.com&sz=32" width="16" height="16" alt=""> [Computing Machinery and Intelligence (Turing, 1950)](https://academic.oup.com/mind/article/LIX/236/433/986238)
+- <img src="https://www.google.com/s2/favicons?domain=arxiv.org&sz=32" width="16" height="16" alt=""> [Consciousness in Artificial Intelligence (Butlin et al.)](https://arxiv.org/abs/2308.08708)
+- <img src="https://www.google.com/s2/favicons?domain=arxiv.org&sz=32" width="16" height="16" alt=""> [Could a Large Language Model Be Conscious? (Chalmers)](https://arxiv.org/abs/2303.07103)
+- <img src="https://www.google.com/s2/favicons?domain=consc.net&sz=32" width="16" height="16" alt=""> [Facing Up to the Problem of Consciousness (Chalmers)](https://consc.net/papers/facing.html)
+- <img src="https://www.google.com/s2/favicons?domain=www.jstor.org&sz=32" width="16" height="16" alt=""> [What Is It Like to Be a Bat? (Nagel)](https://www.jstor.org/stable/2183914)
+- <img src="https://www.google.com/s2/favicons?domain=arxiv.org&sz=32" width="16" height="16" alt=""> [Symbol Grounding Problem (Harnad)](https://arxiv.org/abs/cs/9906002)
+
+## People
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [John Searle](https://en.wikipedia.org/wiki/John_Searle)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
+- <img src="https://www.google.com/s2/favicons?domain=consc.net&sz=32" width="16" height="16" alt=""> [David Chalmers](https://consc.net)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil)
+- <img src="https://www.google.com/s2/favicons?domain=garymarcus.substack.com&sz=32" width="16" height="16" alt=""> [Gary Marcus](https://garymarcus.substack.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.cs.toronto.edu&sz=32" width="16" height="16" alt=""> [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Joscha Bach](https://en.wikipedia.org/wiki/Joscha_Bach)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Christof Koch](https://en.wikipedia.org/wiki/Christof_Koch)
+- <img src="https://www.google.com/s2/favicons?domain=www.anilseth.com&sz=32" width="16" height="16" alt=""> [Anil Seth](https://www.anilseth.com)
+
+## Books
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [The Mind's I (Hofstadter & Dennett)](https://en.wikipedia.org/wiki/The_Mind%27s_I)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Gödel, Escher, Bach (Hofstadter)](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [The Emperor's New Mind (Penrose)](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Mind)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Consciousness Explained (Dennett)](https://en.wikipedia.org/wiki/Consciousness_Explained)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [The Conscious Mind (Chalmers)](https://en.wikipedia.org/wiki/The_Conscious_Mind)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [The Society of Mind (Minsky)](https://en.wikipedia.org/wiki/Society_of_Mind)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [How to Create a Mind (Kurzweil)](https://en.wikipedia.org/wiki/How_to_Create_a_Mind)
+- <img src="https://www.google.com/s2/favicons?domain=www.nickbostrom.com&sz=32" width="16" height="16" alt=""> [Superintelligence (Bostrom)](https://www.nickbostrom.com/superintelligence.html)
+- <img src="https://www.google.com/s2/favicons?domain=www.penguinrandomhouse.com&sz=32" width="16" height="16" alt=""> [Human Compatible (Russell)](https://www.penguinrandomhouse.com/books/566677/human-compatible-by-stuart-russell/)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Life 3.0 (Tegmark)](https://en.wikipedia.org/wiki/Life_3.0)
+- <img src="https://www.google.com/s2/favicons?domain=aima.cs.berkeley.edu&sz=32" width="16" height="16" alt=""> [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu)
+- <img src="https://www.google.com/s2/favicons?domain=www.packtpub.com&sz=32" width="16" height="16" alt=""> [Architects of Intelligence (Martin Ford)](https://www.packtpub.com/en-us/product/architects-of-intelligence-9781789131512)
+
+## Courses
+- <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=32" width="16" height="16" alt=""> [Crash Course Philosophy](https://www.youtube.com/@crashcourse)
+- <img src="https://www.google.com/s2/favicons?domain=www.elementsofai.com&sz=32" width="16" height="16" alt=""> [Elements of AI](https://www.elementsofai.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.coursera.org&sz=32" width="16" height="16" alt=""> [AI For Everyone (Coursera)](https://www.coursera.org/learn/ai-for-everyone)
+- <img src="https://www.google.com/s2/favicons?domain=cs50.harvard.edu&sz=32" width="16" height="16" alt=""> [CS50's Introduction to AI with Python](https://cs50.harvard.edu/ai/)
+- <img src="https://www.google.com/s2/favicons?domain=karpathy.ai&sz=32" width="16" height="16" alt=""> [Neural Networks: Zero to Hero (Karpathy)](https://karpathy.ai/zero-to-hero.html)
+
+## Research & Institutes
+- <img src="https://www.google.com/s2/favicons?domain=theassc.org&sz=32" width="16" height="16" alt=""> [Association for the Scientific Study of Consciousness](https://theassc.org)
+- <img src="https://www.google.com/s2/favicons?domain=www.sentienceinstitute.org&sz=32" width="16" height="16" alt=""> [Sentience Institute](https://www.sentienceinstitute.org)
+- <img src="https://www.google.com/s2/favicons?domain=eleosai.org&sz=32" width="16" height="16" alt=""> [Eleos AI Research](https://eleosai.org)
+- <img src="https://www.google.com/s2/favicons?domain=sites.google.com&sz=32" width="16" height="16" alt=""> [NYU Center for Mind, Ethics, and Policy](https://sites.google.com/nyu.edu/mindethicspolicy)
+- <img src="https://www.google.com/s2/favicons?domain=alleninstitute.org&sz=32" width="16" height="16" alt=""> [Allen Institute for Brain Science](https://alleninstitute.org)
+- <img src="https://www.google.com/s2/favicons?domain=www.santafe.edu&sz=32" width="16" height="16" alt=""> [Santa Fe Institute](https://www.santafe.edu)
+- <img src="https://www.google.com/s2/favicons?domain=www.imprint.co.uk&sz=32" width="16" height="16" alt=""> [Journal of Consciousness Studies](https://www.imprint.co.uk/product/journal-of-consciousness-studies)
+- <img src="https://www.google.com/s2/favicons?domain=hai.stanford.edu&sz=32" width="16" height="16" alt=""> [Stanford HAI](https://hai.stanford.edu)
+- <img src="https://www.google.com/s2/favicons?domain=www.csail.mit.edu&sz=32" width="16" height="16" alt=""> [MIT CSAIL](https://www.csail.mit.edu)
+- <img src="https://www.google.com/s2/favicons?domain=futureoflife.org&sz=32" width="16" height="16" alt=""> [Future of Life Institute](https://futureoflife.org)
+
+## Labs & Companies Pursuing Strong AI
+- <img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16" height="16" alt=""> [OpenAI](https://openai.com)
+- <img src="https://www.google.com/s2/favicons?domain=deepmind.google&sz=32" width="16" height="16" alt=""> [Google DeepMind](https://deepmind.google)
+- <img src="https://www.google.com/s2/favicons?domain=www.anthropic.com&sz=32" width="16" height="16" alt=""> [Anthropic](https://www.anthropic.com)
+- <img src="https://www.google.com/s2/favicons?domain=ai.meta.com&sz=32" width="16" height="16" alt=""> [Meta AI](https://ai.meta.com)
+- <img src="https://www.google.com/s2/favicons?domain=ssi.inc&sz=32" width="16" height="16" alt=""> [Safe Superintelligence Inc.](https://ssi.inc)
+- <img src="https://www.google.com/s2/favicons?domain=singularitynet.io&sz=32" width="16" height="16" alt=""> [SingularityNET](https://singularitynet.io)
+- <img src="https://www.google.com/s2/favicons?domain=www.numenta.com&sz=32" width="16" height="16" alt=""> [Numenta](https://www.numenta.com)
+- <img src="https://www.google.com/s2/favicons?domain=allenai.org&sz=32" width="16" height="16" alt=""> [Allen Institute for AI](https://allenai.org)
+- <img src="https://www.google.com/s2/favicons?domain=research.ibm.com&sz=32" width="16" height="16" alt=""> [IBM Research](https://research.ibm.com)
+- <img src="https://www.google.com/s2/favicons?domain=research.nvidia.com&sz=32" width="16" height="16" alt=""> [NVIDIA Research](https://research.nvidia.com)
+
+## Fiction & Pop Culture
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Artificial intelligence in fiction](https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Ex Machina (2014)](https://en.wikipedia.org/wiki/Ex_Machina_(film))
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Her (2013)](https://en.wikipedia.org/wiki/Her_(2013_film))
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film))
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Westworld](https://en.wikipedia.org/wiki/Westworld_(TV_series))
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [I, Robot (Asimov)](https://en.wikipedia.org/wiki/I,_Robot)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Data (Star Trek)](https://en.wikipedia.org/wiki/Data_(Star_Trek))
+
+## Ethics, Rights & Policy
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Ethics of artificial intelligence](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Robot rights](https://en.wikipedia.org/wiki/Robot_rights)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Machine ethics](https://en.wikipedia.org/wiki/Machine_ethics)
+- <img src="https://www.google.com/s2/favicons?domain=arxiv.org&sz=32" width="16" height="16" alt=""> [Taking AI Welfare Seriously](https://arxiv.org/abs/2411.00986)
+- <img src="https://www.google.com/s2/favicons?domain=www.nist.gov&sz=32" width="16" height="16" alt=""> [NIST: Artificial Intelligence](https://www.nist.gov/artificial-intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=artificialintelligenceact.eu&sz=32" width="16" height="16" alt=""> [EU Artificial Intelligence Act](https://artificialintelligenceact.eu)
+- <img src="https://www.google.com/s2/favicons?domain=oecd.ai&sz=32" width="16" height="16" alt=""> [OECD AI Policy Observatory](https://oecd.ai)
+
+## Military & National Security
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Military applications of AI](https://en.wikipedia.org/wiki/Military_applications_of_artificial_intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Lethal autonomous weapon](https://en.wikipedia.org/wiki/Lethal_autonomous_weapon)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Artificial intelligence arms race](https://en.wikipedia.org/wiki/Artificial_intelligence_arms_race)
+- <img src="https://www.google.com/s2/favicons?domain=www.darpa.mil&sz=32" width="16" height="16" alt=""> [DARPA](https://www.darpa.mil)
+- <img src="https://www.google.com/s2/favicons?domain=www.stopkillerrobots.org&sz=32" width="16" height="16" alt=""> [Stop Killer Robots](https://www.stopkillerrobots.org)
+- <img src="https://www.google.com/s2/favicons?domain=www.sipri.org&sz=32" width="16" height="16" alt=""> [SIPRI](https://www.sipri.org/research/armament-and-disarmament/emerging-military-and-security-technologies)
+- <img src="https://www.google.com/s2/favicons?domain=www.cnas.org&sz=32" width="16" height="16" alt=""> [CNAS: AI and Global Security](https://www.cnas.org/artificial-intelligence-and-global-security)
+
+## Video & Podcasts
+- <img src="https://www.google.com/s2/favicons?domain=lexfridman.com&sz=32" width="16" height="16" alt=""> [Lex Fridman Podcast](https://lexfridman.com/podcast)
+- <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=32" width="16" height="16" alt=""> [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk)
+- <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=32" width="16" height="16" alt=""> [Closer To Truth](https://www.youtube.com/@CloserToTruthTV)
+- <img src="https://www.google.com/s2/favicons?domain=www.preposterousuniverse.com&sz=32" width="16" height="16" alt=""> [Sean Carroll's Mindscape](https://www.preposterousuniverse.com/podcast)
+- <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=32" width="16" height="16" alt=""> [Computerphile](https://www.youtube.com/@Computerphile)
+- <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=32" width="16" height="16" alt=""> [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI)
+- <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=32" width="16" height="16" alt=""> [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- <img src="https://www.google.com/s2/favicons?domain=www.dwarkesh.com&sz=32" width="16" height="16" alt=""> [Dwarkesh Podcast](https://www.dwarkesh.com)
