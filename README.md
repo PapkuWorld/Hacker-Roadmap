@@ -107,5 +107,8 @@
 ### Military Science
 - [Military Science](docs/military/README.md)
 
+### Philosophy
+- [Philosophy](docs/philosophy/README.md)
+
 ### Linguistics
 - [Linguistics](docs/linguistics/README.md)
