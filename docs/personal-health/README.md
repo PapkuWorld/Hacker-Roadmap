@@ -8,7 +8,7 @@ Resources for personal health: fitness, nutrition, mental health, sleep, prevent
 
 - [Overview](overview.md) (6)
 - [Fitness & Exercise](fitness-exercise.md) (6)
-- [Nutrition & Diet](nutrition-diet.md) (6)
+- [Nutrition & Diet](nutrition-diet.md) (5)
 - [Mental Health](mental-health.md) (6)
 - [Sleep & Stress](sleep-stress.md) (5)
 - [Preventive Care & Screening](preventive-care-screening.md) (6)
