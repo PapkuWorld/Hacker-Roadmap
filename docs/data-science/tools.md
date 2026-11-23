@@ -1,0 +1,20 @@
+# Tools
+
+[← Back to Roadmap](../../README.md) · [Data Science](README.md)
+
+- <img src="https://www.google.com/s2/favicons?domain=www.python.org&sz=32" width="16" height="16" alt=""> [Python](https://www.python.org)
+- <img src="https://www.google.com/s2/favicons?domain=pandas.pydata.org&sz=32" width="16" height="16" alt=""> [pandas](https://pandas.pydata.org)
+- <img src="https://www.google.com/s2/favicons?domain=numpy.org&sz=32" width="16" height="16" alt=""> [NumPy](https://numpy.org)
+- <img src="https://www.google.com/s2/favicons?domain=scipy.org&sz=32" width="16" height="16" alt=""> [SciPy](https://scipy.org)
+- <img src="https://www.google.com/s2/favicons?domain=scikit-learn.org&sz=32" width="16" height="16" alt=""> [scikit-learn](https://scikit-learn.org)
+- <img src="https://www.google.com/s2/favicons?domain=matplotlib.org&sz=32" width="16" height="16" alt=""> [Matplotlib](https://matplotlib.org)
+- <img src="https://www.google.com/s2/favicons?domain=seaborn.pydata.org&sz=32" width="16" height="16" alt=""> [Seaborn](https://seaborn.pydata.org)
+- <img src="https://www.google.com/s2/favicons?domain=plotly.com&sz=32" width="16" height="16" alt=""> [Plotly](https://plotly.com)
+- <img src="https://www.google.com/s2/favicons?domain=jupyter.org&sz=32" width="16" height="16" alt=""> [Jupyter](https://jupyter.org)
+- <img src="https://www.google.com/s2/favicons?domain=www.r-project.org&sz=32" width="16" height="16" alt=""> [R Project](https://www.r-project.org)
+- <img src="https://www.google.com/s2/favicons?domain=posit.co&sz=32" width="16" height="16" alt=""> [RStudio / Posit](https://posit.co)
+- <img src="https://www.google.com/s2/favicons?domain=spark.apache.org&sz=32" width="16" height="16" alt=""> [Apache Spark](https://spark.apache.org)
+- <img src="https://www.google.com/s2/favicons?domain=airflow.apache.org&sz=32" width="16" height="16" alt=""> [Apache Airflow](https://airflow.apache.org)
+- <img src="https://www.google.com/s2/favicons?domain=www.getdbt.com&sz=32" width="16" height="16" alt=""> [dbt](https://www.getdbt.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.snowflake.com&sz=32" width="16" height="16" alt=""> [Snowflake](https://www.snowflake.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.databricks.com&sz=32" width="16" height="16" alt=""> [Databricks](https://www.databricks.com)
