@@ -54,6 +54,9 @@
 ### Creative
 - [Creative](docs/creative/README.md)
 
+### Cooking
+- [Cooking](docs/cooking/README.md)
+
 ### Quantum Computing
 - [Quantum Computing](docs/quantum-computing/README.md)
 
