@@ -61,3 +61,16 @@
 
 ### Software Development
 - [Software Development](docs/software-development/README.md)
+
+### Computing Disciplines
+- [Computer Engineering](docs/computer-engineering/README.md)
+- [Information Systems](docs/information-systems/README.md)
+- [Data Science](docs/data-science/README.md)
+- [Human-Computer Interaction](docs/hci/README.md)
+- [Computer Graphics and Visualization](docs/graphics-visualization/README.md)
+- [Networking and Telecommunications](docs/networking-telecommunications/README.md)
+- [Robotics](docs/robotics/README.md)
+- [Bioinformatics and Computational Biology](docs/bioinformatics/README.md)
+- [Game Design and Development](docs/game-design-development/README.md)
+- [Quantum Computing](docs/quantum-computing/README.md)
+- [Health Informatics](docs/health-informatics/README.md)
