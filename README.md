@@ -49,3 +49,6 @@
 
 ### Intelligence Studies
 - [Intelligence Studies](docs/intelligence-studies/README.md)
+
+### Military
+- [Military](docs/military/README.md)

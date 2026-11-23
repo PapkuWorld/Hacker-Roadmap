@@ -1,0 +1,20 @@
+# Defense Contractors
+
+[← Back to Roadmap](../../README.md) · [Military](README.md)
+
+- <img src="https://www.google.com/s2/favicons?domain=www.lockheedmartin.com&sz=32" width="16" height="16" alt=""> [Lockheed Martin](https://www.lockheedmartin.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.rtx.com&sz=32" width="16" height="16" alt=""> [RTX (Raytheon)](https://www.rtx.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.northropgrumman.com&sz=32" width="16" height="16" alt=""> [Northrop Grumman](https://www.northropgrumman.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.gd.com&sz=32" width="16" height="16" alt=""> [General Dynamics](https://www.gd.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.boeing.com&sz=32" width="16" height="16" alt=""> [Boeing Defense](https://www.boeing.com/defense)
+- <img src="https://www.google.com/s2/favicons?domain=www.l3harris.com&sz=32" width="16" height="16" alt=""> [L3Harris](https://www.l3harris.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.baesystems.com&sz=32" width="16" height="16" alt=""> [BAE Systems](https://www.baesystems.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.anduril.com&sz=32" width="16" height="16" alt=""> [Anduril](https://www.anduril.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.palantir.com&sz=32" width="16" height="16" alt=""> [Palantir](https://www.palantir.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.leidos.com&sz=32" width="16" height="16" alt=""> [Leidos](https://www.leidos.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.boozallen.com&sz=32" width="16" height="16" alt=""> [Booz Allen Hamilton](https://www.boozallen.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.saic.com&sz=32" width="16" height="16" alt=""> [SAIC](https://www.saic.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.caci.com&sz=32" width="16" height="16" alt=""> [CACI](https://www.caci.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.hii.com&sz=32" width="16" height="16" alt=""> [Huntington Ingalls](https://www.hii.com)
+- <img src="https://www.google.com/s2/favicons?domain=shield.ai&sz=32" width="16" height="16" alt=""> [Shield AI](https://shield.ai)
+- <img src="https://www.google.com/s2/favicons?domain=www.spacex.com&sz=32" width="16" height="16" alt=""> [SpaceX Starshield](https://www.spacex.com/starshield)

@@ -1,0 +1,20 @@
+# US Armed Forces
+
+[← Back to Roadmap](../../README.md) · [Military](README.md)
+
+- <img src="https://www.google.com/s2/favicons?domain=www.defense.gov&sz=32" width="16" height="16" alt=""> [US Department of Defense](https://www.defense.gov)
+- <img src="https://www.google.com/s2/favicons?domain=www.army.mil&sz=32" width="16" height="16" alt=""> [US Army](https://www.army.mil)
+- <img src="https://www.google.com/s2/favicons?domain=www.navy.mil&sz=32" width="16" height="16" alt=""> [US Navy](https://www.navy.mil)
+- <img src="https://www.google.com/s2/favicons?domain=www.af.mil&sz=32" width="16" height="16" alt=""> [US Air Force](https://www.af.mil)
+- <img src="https://www.google.com/s2/favicons?domain=www.marines.mil&sz=32" width="16" height="16" alt=""> [US Marine Corps](https://www.marines.mil)
+- <img src="https://www.google.com/s2/favicons?domain=www.spaceforce.mil&sz=32" width="16" height="16" alt=""> [US Space Force](https://www.spaceforce.mil)
+- <img src="https://www.google.com/s2/favicons?domain=www.uscg.mil&sz=32" width="16" height="16" alt=""> [US Coast Guard](https://www.uscg.mil)
+- <img src="https://www.google.com/s2/favicons?domain=www.nationalguard.mil&sz=32" width="16" height="16" alt=""> [National Guard](https://www.nationalguard.mil)
+- <img src="https://www.google.com/s2/favicons?domain=www.cybercom.mil&sz=32" width="16" height="16" alt=""> [US Cyber Command](https://www.cybercom.mil)
+- <img src="https://www.google.com/s2/favicons?domain=www.socom.mil&sz=32" width="16" height="16" alt=""> [US Special Operations Command](https://www.socom.mil)
+- <img src="https://www.google.com/s2/favicons?domain=www.darpa.mil&sz=32" width="16" height="16" alt=""> [DARPA](https://www.darpa.mil)
+- <img src="https://www.google.com/s2/favicons?domain=www.disa.mil&sz=32" width="16" height="16" alt=""> [DISA](https://www.disa.mil)
+- <img src="https://www.google.com/s2/favicons?domain=www.jcs.mil&sz=32" width="16" height="16" alt=""> [Joint Chiefs of Staff](https://www.jcs.mil)
+- <img src="https://www.google.com/s2/favicons?domain=discover.dtic.mil&sz=32" width="16" height="16" alt=""> [Defense Technical Information Center](https://discover.dtic.mil)
+- <img src="https://www.google.com/s2/favicons?domain=www.dvidshub.net&sz=32" width="16" height="16" alt=""> [DVIDS (Defense Visual Information)](https://www.dvidshub.net)
+- <img src="https://www.google.com/s2/favicons?domain=www.militaryonesource.mil&sz=32" width="16" height="16" alt=""> [Military OneSource](https://www.militaryonesource.mil)
