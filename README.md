@@ -44,7 +44,7 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 ### Prehistory
 - [Prehistory](docs/prehistory/README.md)
 
-### Mythology & Religion
+### Mythology
 - [Mythology](docs/mythology/README.md)
 
 ### Religion
