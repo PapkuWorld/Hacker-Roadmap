@@ -231,8 +231,5 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 ### Witchcraft
 - [Witchcraft](docs/witchcraft/README.md)
 
-### Information Theory
-- [Information Theory](docs/information-theory/README.md)
-
 ### Cognitive Science
 - [Cognitive Science](docs/cognitive-science/README.md)
