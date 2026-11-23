@@ -84,6 +84,9 @@
 ### Social
 - [Social](docs/social/README.md)
 
+### Digital Nomad
+- [Digital Nomad](docs/digital-nomad/README.md)
+
 ### Personal Health
 - [Personal Health](docs/personal-health/README.md)
 
