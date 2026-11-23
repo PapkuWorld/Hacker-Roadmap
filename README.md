@@ -110,7 +110,7 @@
 ### Philosophy
 - [Philosophy](docs/philosophy/README.md)
 
-### Political
+### Political Science
 - [Political](docs/political/README.md)
 
 ### Linguistics
