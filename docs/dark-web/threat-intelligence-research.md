@@ -1,0 +1,20 @@
+# Threat Intelligence & Research
+
+[← Back to Roadmap](../../README.md) · [Dark Web](README.md)
+
+- <img src="https://www.google.com/s2/favicons?domain=flashpoint.io&sz=32" width="16" height="16" alt=""> [Flashpoint](https://flashpoint.io)
+- <img src="https://www.google.com/s2/favicons?domain=intel471.com&sz=32" width="16" height="16" alt=""> [Intel 471](https://intel471.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.kelacyber.com&sz=32" width="16" height="16" alt=""> [KELA](https://www.kelacyber.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.darkowl.com&sz=32" width="16" height="16" alt=""> [DarkOwl](https://www.darkowl.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.chainalysis.com&sz=32" width="16" height="16" alt=""> [Chainalysis](https://www.chainalysis.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.elliptic.co&sz=32" width="16" height="16" alt=""> [Elliptic](https://www.elliptic.co)
+- <img src="https://www.google.com/s2/favicons?domain=www.trmlabs.com&sz=32" width="16" height="16" alt=""> [TRM Labs](https://www.trmlabs.com)
+- <img src="https://www.google.com/s2/favicons?domain=krebsonsecurity.com&sz=32" width="16" height="16" alt=""> [Krebs on Security](https://krebsonsecurity.com)
+- <img src="https://www.google.com/s2/favicons?domain=therecord.media&sz=32" width="16" height="16" alt=""> [The Record (Recorded Future News)](https://therecord.media)
+- <img src="https://www.google.com/s2/favicons?domain=www.bleepingcomputer.com&sz=32" width="16" height="16" alt=""> [BleepingComputer](https://www.bleepingcomputer.com)
+- <img src="https://www.google.com/s2/favicons?domain=attack.mitre.org&sz=32" width="16" height="16" alt=""> [MITRE ATT&CK](https://attack.mitre.org)
+- <img src="https://www.google.com/s2/favicons?domain=www.ransomware.live&sz=32" width="16" height="16" alt=""> [ransomware.live](https://www.ransomware.live)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Cyber threat intelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Cybercrime](https://en.wikipedia.org/wiki/Cybercrime)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Ransomware](https://en.wikipedia.org/wiki/Ransomware)
+- <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Initial access broker](https://en.wikipedia.org/wiki/Initial_access_broker)
