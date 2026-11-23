@@ -1,0 +1,20 @@
+# Certifications & Careers
+
+[← Back to Roadmap](../../README.md) · [Information Technology](README.md)
+
+- <img src="https://www.google.com/s2/favicons?domain=www.comptia.org&sz=32" width="16" height="16" alt=""> [CompTIA A+](https://www.comptia.org/certifications/a)
+- <img src="https://www.google.com/s2/favicons?domain=www.comptia.org&sz=32" width="16" height="16" alt=""> [CompTIA Network+](https://www.comptia.org/certifications/network)
+- <img src="https://www.google.com/s2/favicons?domain=www.comptia.org&sz=32" width="16" height="16" alt=""> [CompTIA Server+](https://www.comptia.org/certifications/server)
+- <img src="https://www.google.com/s2/favicons?domain=www.comptia.org&sz=32" width="16" height="16" alt=""> [CompTIA Cloud+](https://www.comptia.org/certifications/cloud)
+- <img src="https://www.google.com/s2/favicons?domain=www.cisco.com&sz=32" width="16" height="16" alt=""> [CCNA (Cisco)](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html)
+- <img src="https://www.google.com/s2/favicons?domain=learn.microsoft.com&sz=32" width="16" height="16" alt=""> [Microsoft 365 Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals)
+- <img src="https://www.google.com/s2/favicons?domain=www.peoplecert.org&sz=32" width="16" height="16" alt=""> [ITIL 4 Foundation](https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1)
+- <img src="https://www.google.com/s2/favicons?domain=www.pmi.org&sz=32" width="16" height="16" alt=""> [PMI (PMP)](https://www.pmi.org/certifications/project-management-pmp)
+- <img src="https://www.google.com/s2/favicons?domain=www.isaca.org&sz=32" width="16" height="16" alt=""> [ISACA](https://www.isaca.org)
+- <img src="https://www.google.com/s2/favicons?domain=www.isc2.org&sz=32" width="16" height="16" alt=""> [ISC2](https://www.isc2.org)
+- <img src="https://www.google.com/s2/favicons?domain=certmike.com&sz=32" width="16" height="16" alt=""> [CertMike](https://certmike.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.dice.com&sz=32" width="16" height="16" alt=""> [Dice](https://www.dice.com)
+- <img src="https://www.google.com/s2/favicons?domain=www.indeed.com&sz=32" width="16" height="16" alt=""> [Indeed IT jobs](https://www.indeed.com/q-it-jobs.html)
+- <img src="https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=32" width="16" height="16" alt=""> [LinkedIn Jobs](https://www.linkedin.com/jobs)
+- <img src="https://www.google.com/s2/favicons?domain=www.levels.fyi&sz=32" width="16" height="16" alt=""> [Levels.fyi](https://www.levels.fyi)
+- <img src="https://www.google.com/s2/favicons?domain=roadmap.sh&sz=32" width="16" height="16" alt=""> [Roadmap.sh](https://roadmap.sh)

@@ -55,3 +55,6 @@
 
 ### Linguistics
 - [Linguistics](docs/linguistics/README.md)
+
+### Information Technology
+- [Information Technology](docs/information-technology/README.md)
