@@ -18,6 +18,48 @@
 - [Rust](docs/programming-languages/rust.md)
 - [Web Development](docs/programming-languages/web-development.md)
 
+### Software Development
+- [Software Development](docs/software-development/README.md)
+
+### Information Technology
+- [Information Technology](docs/information-technology/README.md)
+
+### Networking and Telecommunications
+- [Networking and Telecommunications](docs/networking-telecommunications/README.md)
+
+### Computer Engineering
+- [Computer Engineering](docs/computer-engineering/README.md)
+
+### Information Systems
+- [Information Systems](docs/information-systems/README.md)
+
+### Data Science
+- [Data Science](docs/data-science/README.md)
+
+### Artificial Intelligence
+- [Artificial Intelligence](docs/artificial-intelligence/README.md)
+
+### Human-Computer Interaction
+- [Human-Computer Interaction](docs/hci/README.md)
+
+### Computer Graphics and Visualization
+- [Computer Graphics and Visualization](docs/graphics-visualization/README.md)
+
+### Robotics
+- [Robotics](docs/robotics/README.md)
+
+### Game Design and Development
+- [Game Design and Development](docs/game-design-development/README.md)
+
+### Quantum Computing
+- [Quantum Computing](docs/quantum-computing/README.md)
+
+### Bioinformatics and Computational Biology
+- [Bioinformatics and Computational Biology](docs/bioinformatics/README.md)
+
+### Health Informatics
+- [Health Informatics](docs/health-informatics/README.md)
+
 ### Certifications
 - [CompTIA Certifications](docs/certifications/comptia/README.md)
 - [Cisco Certifications](docs/certifications/cisco/README.md)
@@ -41,56 +83,14 @@
 - [Forensics](docs/defensive-security/forensics.md)
 - [OSINT](docs/defensive-security/osint.md)
 
-### Artificial Intelligence
-- [Artificial Intelligence](docs/artificial-intelligence/README.md)
+### Intelligence Studies
+- [Intelligence Studies](docs/intelligence-studies/README.md)
 
 ### Criminal Justice & Policing
 - [Criminal Justice & Policing](docs/criminal-justice-and-policing/README.md)
-
-### Intelligence Studies
-- [Intelligence Studies](docs/intelligence-studies/README.md)
 
 ### Military Science
 - [Military Science](docs/military/README.md)
 
 ### Linguistics
 - [Linguistics](docs/linguistics/README.md)
-
-### Information Technology
-- [Information Technology](docs/information-technology/README.md)
-
-### Software Development
-- [Software Development](docs/software-development/README.md)
-
-### Computer Engineering
-- [Computer Engineering](docs/computer-engineering/README.md)
-
-### Information Systems
-- [Information Systems](docs/information-systems/README.md)
-
-### Data Science
-- [Data Science](docs/data-science/README.md)
-
-### Human-Computer Interaction
-- [Human-Computer Interaction](docs/hci/README.md)
-
-### Computer Graphics and Visualization
-- [Computer Graphics and Visualization](docs/graphics-visualization/README.md)
-
-### Networking and Telecommunications
-- [Networking and Telecommunications](docs/networking-telecommunications/README.md)
-
-### Robotics
-- [Robotics](docs/robotics/README.md)
-
-### Bioinformatics and Computational Biology
-- [Bioinformatics and Computational Biology](docs/bioinformatics/README.md)
-
-### Game Design and Development
-- [Game Design and Development](docs/game-design-development/README.md)
-
-### Quantum Computing
-- [Quantum Computing](docs/quantum-computing/README.md)
-
-### Health Informatics
-- [Health Informatics](docs/health-informatics/README.md)
