@@ -50,6 +50,12 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 ### Religion
 - [Religion](docs/religion/README.md)
 
+#### Witchcraft
+- [Witchcraft](docs/witchcraft/README.md)
+
+#### Satanism
+- [Satanism](docs/satanism/README.md)
+
 ### History
 - [History](docs/history/README.md)
 
@@ -261,12 +267,6 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 
 ### Military Science
 - [Military Science](docs/military/README.md)
-
-### Satanism
-- [Satanism](docs/satanism/README.md)
-
-### Witchcraft
-- [Witchcraft](docs/witchcraft/README.md)
 
 ### Cognitive Science
 - [Cognitive Science](docs/cognitive-science/README.md)
