@@ -19,16 +19,16 @@
 - [Web Development](docs/web-development.md)
 
 ### Certifications
-- [CompTIA Certifications](docs/comptia.md)
-- [Cisco Certifications](docs/cisco.md)
-- [LPI Certifications](docs/lpi.md)
+- [CompTIA Certifications](docs/certifications/comptia/README.md)
+- [Cisco Certifications](docs/certifications/cisco/README.md)
+- [LPI Certifications](docs/certifications/lpi/README.md)
 - [GRC (Governance, Risk & Compliance)](docs/grc.md)
-- [Hack The Box Certifications](docs/hack-the-box.md)
-- [OffSec Certifications](docs/offsec.md)
-- [TCM Security Certifications](docs/tcm-security.md)
-- [Security Blue Team Certifications](docs/security-blue-team.md)
-- [CyberDefenders](docs/cyberdefenders.md)
-- [Zero-Point Security Courses & Certifications](docs/zero-point-security.md)
+- [Hack The Box Certifications](docs/certifications/hack-the-box/README.md)
+- [OffSec Certifications](docs/certifications/offsec/README.md)
+- [TCM Security Certifications](docs/certifications/tcm-security/README.md)
+- [Security Blue Team Certifications](docs/certifications/security-blue-team/README.md)
+- [CyberDefenders](docs/certifications/cyberdefenders/README.md)
+- [Zero-Point Security Courses & Certifications](docs/certifications/zero-point-security/README.md)
 
 ### Offensive Security
 - [Exploit Development](docs/exploit-development.md)
