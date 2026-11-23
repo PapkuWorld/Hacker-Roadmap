@@ -119,6 +119,9 @@
 ### Military Science
 - [Military Science](docs/military/README.md)
 
+### Witchcraft
+- [Witchcraft](docs/witchcraft/README.md)
+
 ### Philosophy
 - [Philosophy](docs/philosophy/README.md)
 
