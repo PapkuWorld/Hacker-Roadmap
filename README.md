@@ -78,6 +78,9 @@
 ### Business
 - [Business](docs/business/README.md)
 
+### Dating
+- [Dating](docs/dating/README.md)
+
 ### Personal Health
 - [Personal Health](docs/personal-health/README.md)
 
