@@ -119,6 +119,9 @@
 ### Military Science
 - [Military Science](docs/military/README.md)
 
+### Satanism
+- [Satanism](docs/satanism/README.md)
+
 ### Witchcraft
 - [Witchcraft](docs/witchcraft/README.md)
 
