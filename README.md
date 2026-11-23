@@ -49,11 +49,7 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 
 ### Religion
 - [Religion](docs/religion/README.md)
-
-#### Witchcraft
 - [Witchcraft](docs/witchcraft/README.md)
-
-#### Satanism
 - [Satanism](docs/satanism/README.md)
 
 ### History
