@@ -221,23 +221,241 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 ### Housing
 - [Housing](docs/housing/README.md)
 
-### Marriage
-- [Marriage](docs/marriage/README.md)
 
 ### Business
 - [Business](docs/business/README.md)
 
-### Dating
-- [Dating](docs/dating/README.md)
+### Business Administration
+- [Business Administration](docs/business/business-administration/README.md)
+
+### General Management
+- [General Management](docs/business/general-management/README.md)
+
+### Business Management
+- [Business Management](docs/business/business-management/README.md)
+
+### Economics
+- [Economics](docs/business/economics/README.md)
+
+### Accounting
+- [Accounting](docs/business/accounting/README.md)
+
+### Finance
+- [Finance](docs/business/finance/README.md)
+
+### Marketing
+- [Marketing](docs/business/marketing/README.md)
+
+### Operations Management
+- [Operations Management](docs/business/operations-management/README.md)
+
+### Human Resource Management (HRM)
+- [Human Resource Management (HRM)](docs/business/human-resource-management/README.md)
+
+### Business Law & Regulation
+- [Business Law & Regulation](docs/business/business-law-and-regulation/README.md)
+
+### Business Ethics & Corporate Social Responsibility (CSR)
+- [Business Ethics & Corporate Social Responsibility (CSR)](docs/business/business-ethics-and-corporate-social-responsibility/README.md)
+
+### Organizational Behavior & Leadership
+- [Organizational Behavior & Leadership](docs/business/organizational-behavior-and-leadership/README.md)
+
+### Strategic Management
+- [Strategic Management](docs/business/strategic-management/README.md)
+
+### Corporate Accounting
+- [Corporate Accounting](docs/business/corporate-accounting/README.md)
+
+### Taxation
+- [Taxation](docs/business/taxation/README.md)
+
+### Corporate Finance
+- [Corporate Finance](docs/business/corporate-finance/README.md)
+
+### Banking & Financial Services
+- [Banking & Financial Services](docs/business/banking-and-financial-services/README.md)
+
+### Insurance & Risk Management
+- [Insurance & Risk Management](docs/business/insurance-and-risk-management/README.md)
+
+### Financial Planning & Wealth Management
+- [Financial Planning & Wealth Management](docs/business/financial-planning-and-wealth-management/README.md)
+
+### Forensic Accounting
+- [Forensic Accounting](docs/business/forensic-accounting/README.md)
+
+### Actuarial Science
+- [Actuarial Science](docs/business/actuarial-science/README.md)
+
+### Mathematical / Quantitative Finance
+- [Mathematical / Quantitative Finance](docs/business/mathematical-quantitative-finance/README.md)
+
+### FinTech (Financial Technology)
+- [FinTech (Financial Technology)](docs/business/fintech/README.md)
+
+### Consumer Behavior
+- [Consumer Behavior](docs/business/consumer-behavior/README.md)
+
+### Market Research & Analytics
+- [Market Research & Analytics](docs/business/market-research-and-analytics/README.md)
+
+### Advertising & Promotion
+- [Advertising & Promotion](docs/business/advertising-and-promotion/README.md)
+
+### Brand Management
+- [Brand Management](docs/business/brand-management/README.md)
+
+### Public Relations & Corporate Communications
+- [Public Relations & Corporate Communications](docs/business/public-relations-and-corporate-communications/README.md)
+
+### Sales & Account Management
+- [Sales & Account Management](docs/business/sales-and-account-management/README.md)
+
+### Retail Management
+- [Retail Management](docs/business/retail-management/README.md)
+
+### Digital Marketing & Social Media
+- [Digital Marketing & Social Media](docs/business/digital-marketing-and-social-media/README.md)
+
+### E-Commerce
+- [E-Commerce](docs/business/e-commerce/README.md)
+
+### Supply Chain Management
+- [Supply Chain Management](docs/business/supply-chain-management/README.md)
+
+### Logistics & Distribution
+- [Logistics & Distribution](docs/business/logistics-and-distribution/README.md)
+
+### Procurement & Purchasing
+- [Procurement & Purchasing](docs/business/procurement-and-purchasing/README.md)
+
+### Quality & Process Management
+- [Quality & Process Management](docs/business/quality-and-process-management/README.md)
+
+### Project Management
+- [Project Management](docs/business/project-management/README.md)
+
+### Management Information Systems (MIS)
+- [Management Information Systems (MIS)](docs/business/management-information-systems/README.md)
+
+### Information Technology (IT) Management
+- [Information Technology (IT) Management](docs/business/information-technology-management/README.md)
+
+### Business Analytics & Data Science
+- [Business Analytics & Data Science](docs/business/business-analytics-and-data-science/README.md)
+
+### Artificial Intelligence in Business
+- [Artificial Intelligence in Business](docs/business/artificial-intelligence-in-business/README.md)
+
+### Cybersecurity Management
+- [Cybersecurity Management](docs/business/cybersecurity-management/README.md)
+
+### Management Engineering
+- [Management Engineering](docs/business/management-engineering/README.md)
+
+### Talent Acquisition & Compensation
+- [Talent Acquisition & Compensation](docs/business/talent-acquisition-and-compensation/README.md)
+
+### Industrial & Labor Relations
+- [Industrial & Labor Relations](docs/business/industrial-and-labor-relations/README.md)
+
+### Compliance & Corporate Governance
+- [Compliance & Corporate Governance](docs/business/compliance-and-corporate-governance/README.md)
+
+### Change Management
+- [Change Management](docs/business/change-management/README.md)
+
+### Management Consulting
+- [Management Consulting](docs/business/management-consulting/README.md)
+
+### Entrepreneurship & Innovation
+- [Entrepreneurship & Innovation](docs/business/entrepreneurship-and-innovation/README.md)
+
+### Small Business Management
+- [Small Business Management](docs/business/small-business-management/README.md)
+
+### Family Business Management
+- [Family Business Management](docs/business/family-business-management/README.md)
+
+### Global / International Business
+- [Global / International Business](docs/business/global-international-business/README.md)
+
+### Real Estate & Property Management
+- [Real Estate & Property Management](docs/business/real-estate-and-property-management/README.md)
+
+### Construction Management
+- [Construction Management](docs/business/construction-management/README.md)
+
+### Agribusiness
+- [Agribusiness](docs/business/agribusiness/README.md)
+
+### Energy & Natural Resources Management
+- [Energy & Natural Resources Management](docs/business/energy-and-natural-resources-management/README.md)
+
+### Aviation & Aerospace Management
+- [Aviation & Aerospace Management](docs/business/aviation-and-aerospace-management/README.md)
+
+### Food & Beverage Management
+- [Food & Beverage Management](docs/business/food-and-beverage-management/README.md)
+
+### Hospitality & Tourism Management
+- [Hospitality & Tourism Management](docs/business/hospitality-and-tourism-management/README.md)
+
+### Fashion & Luxury Brand Management
+- [Fashion & Luxury Brand Management](docs/business/fashion-and-luxury-brand-management/README.md)
+
+### Arts & Entertainment Management
+- [Arts & Entertainment Management](docs/business/arts-and-entertainment-management/README.md)
+
+### Sports & Event Management
+- [Sports & Event Management](docs/business/sports-and-event-management/README.md)
+
+### Healthcare Administration / Health Services Management
+- [Healthcare Administration / Health Services Management](docs/business/healthcare-administration-health-services-management/README.md)
+
+### Nonprofit & Public Administration
+- [Nonprofit & Public Administration](docs/business/nonprofit-and-public-administration/README.md)
+
+### Sustainability & Environmental Business
+- [Sustainability & Environmental Business](docs/business/sustainability-and-environmental-business/README.md)
+
+
+
+### Mental Health
+- [Personal Health](docs/mental-health/README.md)
+
+### Physical Health
+- [Personal Health](docs/physical-health/README.md)
+
+### Psychology
+- [Personal Health](docs/personal-health/README.md)
+
+### Anthropology
+- [Personal Health](docs/personal-health/README.md)
+
+### English
+- [Personal Health](docs/english/README.md)
+
+### Criminology
+- [Personal Health](docs/criminology/README.md)
+
+### Sociology
+- [Personal Health](docs/sociology/README.md)
 
 ### Social
 - [Social](docs/social/README.md)
 
+### Dating
+- [Dating](docs/dating/README.md)
+
+### Marriage
+- [Marriage](docs/marriage/README.md)
+
+
 ### Digital Nomad
 - [Digital Nomad](docs/digital-nomad/README.md)
 
-### Personal Health
-- [Personal Health](docs/personal-health/README.md)
 
 ### Health Informatics
 - [Health Informatics](docs/health-informatics/README.md)
@@ -265,6 +483,9 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 
 ### Global Security
 - [Global Security](docs/global-security/README.md)
+
+### Gangstalking
+- [Gang Stalking](docs/gangstalking/README.md)
 
 ### Military Science
 - [Military Science](docs/military/README.md)
