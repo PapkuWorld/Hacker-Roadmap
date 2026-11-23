@@ -110,27 +110,39 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 ### Human Geography
 - [Human Geography](docs/human-geography/README.md)
 
-### Materials Science & Chemistry
-- [Materials Science & Chemistry](docs/materials-science-chemistry/README.md)
-
-### Quantum & Solid-State Physics
-- [Quantum & Solid-State Physics](docs/quantum-solid-state-physics/README.md)
-
-### Electromagnetism (Maxwell’s Equations)
-- [Electromagnetism](docs/electromagnetism/README.md)
-
-### Classical Physics (Mechanics & Thermodynamics)
-- [Classical Physics](docs/classical-physics/README.md)
-
 ### Mathematics (Calculus, Linear Algebra & Differential Equations)
 - [Calculus, Linear Algebra & Differential Equations](docs/calculus-linear-algebra-differential-equations/README.md)
 - [Mathematics](docs/mathematics/README.md)
 
-### Electrical Engineering
-- [Electrical Engineering](docs/electrical-engineering/README.md)
+### Classical Physics (Mechanics & Thermodynamics)
+- [Classical Physics](docs/classical-physics/README.md)
 
 ### Civil Engineering
 - [Civil Engineering](docs/civil-engineering/README.md)
+
+### Mechanical Engineering
+- [Mechanical Engineering](docs/mechanical-engineering/README.md)
+
+### Materials Science & Chemistry
+- [Materials Science & Chemistry](docs/materials-science-chemistry/README.md)
+
+### Chemical Engineering
+- [Chemical Engineering](docs/chemical-engineering/README.md)
+
+### Aerospace Engineering
+- [Aerospace Engineering](docs/aerospace-engineering/README.md)
+
+### Electromagnetism (Maxwell’s Equations)
+- [Electromagnetism](docs/electromagnetism/README.md)
+
+### Quantum & Solid-State Physics
+- [Quantum & Solid-State Physics](docs/quantum-solid-state-physics/README.md)
+
+### Electrical Engineering
+- [Electrical Engineering](docs/electrical-engineering/README.md)
+
+### Control Systems & Signal Processing
+- [Control Systems & Signal Processing](docs/control-systems-signal-processing/README.md)
 
 ### Computer Engineering
 - [Computer Engineering](docs/computer-engineering/README.md)
