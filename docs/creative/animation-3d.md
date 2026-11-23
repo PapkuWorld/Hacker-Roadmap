@@ -1,5 +1,7 @@
 # Animation & 3D
 
+> See also: [MMD (MikuMikuDance)](mmd.md)
+
 [← Back to Roadmap](../../README.md) · [Creative](README.md)
 
 - <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=32" width="16" height="16" alt=""> [Wikipedia: Animation](https://en.wikipedia.org/wiki/Animation)
