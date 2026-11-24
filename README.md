@@ -187,6 +187,15 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 ### Robotics
 - [Robotics](docs/robotics/README.md)
 
+### Biology
+- [Robotics](docs/biology/README.md)
+
+### Virology
+- [Robotics](docs/biology/README.md)
+
+### Metabolic Engineering
+- [Robotics](docs/metabolic-engineering/README.md)
+
 ### Bioengineering & Post-Humanism
 - [Bioengineering & Post-Humanism](docs/bioengineering-post-humanism/README.md)
 
@@ -500,6 +509,8 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 - [HIV](docs/hiv/README.md)
 
 
+### War Studies
+- [Military Science](docs/war-studies/README.md)
 
 ### Military Science
 - [Military Science](docs/military/README.md)
