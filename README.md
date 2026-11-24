@@ -515,5 +515,10 @@ Pure Being / The Unknowable $\rightarrow$ Logic $\rightarrow$ Mathematics $\righ
 ### Military Science
 - [Military Science](docs/military/README.md)
 
+
+### Notable People
+- [Notable-People](docs/Notable-People/README.md)
+
+
 ### Cognitive Science
 - [Cognitive Science](docs/cognitive-science/README.md)
